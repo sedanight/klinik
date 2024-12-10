@@ -1,0 +1,405 @@
+ERROR - 2019-04-10 07:10:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:10:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:10:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:10:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:11:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:11:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:12:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:15:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:19:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:20:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:38:27 --> 404 Page Not Found: Masterdata/pegawai
+ERROR - 2019-04-10 07:40:25 --> 404 Page Not Found: Masterdata/pegawai
+ERROR - 2019-04-10 07:40:31 --> 404 Page Not Found: Masterdata/pegawai
+ERROR - 2019-04-10 07:44:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:44:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:48:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:48:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:49:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 07:49:19 --> 404 Page Not Found: Admission/pendaftaran
+ERROR - 2019-04-10 12:50:00 --> Query error: Table 'db_klinik.tb_pendaftaran_mi' doesn't exist - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id
+				join tb_users us on us.id = p.id_users
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-04-10' 
+                group by p.id order by p.waktu_daftar desc limit 0, 10
+ERROR - 2019-04-10 12:50:19 --> Query error: Table 'db_klinik.tb_pendaftaran_mi' doesn't exist - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id
+				join tb_users us on us.id = p.id_users
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-04-10' 
+                group by p.id order by p.waktu_daftar desc limit 0, 10
+ERROR - 2019-04-10 12:50:45 --> Query error: Table 'db_klinik.tb_pendaftaran_mi' doesn't exist - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id
+				join tb_users us on us.id = p.id_users
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-04-10' 
+                group by p.id order by p.waktu_daftar desc limit 0, 10
+ERROR - 2019-04-10 12:51:21 --> Query error: Table 'db_klinik.tb_pendaftaran_mi' doesn't exist - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id
+				join tb_users us on us.id = p.id_users
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-04-10' 
+                group by p.id order by p.waktu_daftar desc limit 0, 10
+ERROR - 2019-04-10 13:52:55 --> Severity: Notice --> Undefined variable: status_pasien C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 91
+ERROR - 2019-04-10 09:03:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:16:32 --> Severity: Notice --> Undefined property: Admission::$m_masterdata C:\xampp\htdocs\klinik\application\controllers\Admission.php 35
+ERROR - 2019-04-10 14:16:32 --> Severity: error --> Exception: Call to a member function get_jenis_identitas() on null C:\xampp\htdocs\klinik\application\controllers\Admission.php 35
+ERROR - 2019-04-10 09:16:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:16:37 --> Severity: Notice --> Undefined property: Admission::$m_masterdata C:\xampp\htdocs\klinik\application\controllers\Admission.php 35
+ERROR - 2019-04-10 14:16:37 --> Severity: error --> Exception: Call to a member function get_jenis_identitas() on null C:\xampp\htdocs\klinik\application\controllers\Admission.php 35
+ERROR - 2019-04-10 14:16:49 --> Severity: error --> Exception: Call to undefined method M_masterdata::get_jenis_identitas() C:\xampp\htdocs\klinik\application\controllers\Admission.php 35
+ERROR - 2019-04-10 09:17:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:18:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:19:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:19:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:21:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:22:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:22:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:28:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:28:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:28:55 --> 404 Page Not Found: api/Admission_auto/pasien_auto
+ERROR - 2019-04-10 09:28:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:29:00 --> 404 Page Not Found: api/Admission_auto/pasien_auto
+ERROR - 2019-04-10 09:31:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:31:33 --> Query error: Table 'db_klinik.dc_pasien' doesn't exist - Invalid query: select p.*, p.nama, pd.nama as pendidikan, pk.nama as pekerjaan from dc_pasien p left join dc_pendidikan pd on (pd.id = p.id_pendidikan) left join dc_pekerjaan pk on (pk.id = p.id_pekerjaan)   order by p.id limit 0, 20
+ERROR - 2019-04-10 14:31:49 --> Query error: Table 'db_klinik.dc_pasien' doesn't exist - Invalid query: select p.*, p.nama, pd.nama as pendidikan, pk.nama as pekerjaan from dc_pasien p left join dc_pendidikan pd on (pd.id = p.id_pendidikan) left join dc_pekerjaan pk on (pk.id = p.id_pekerjaan)   order by p.id limit 0, 20
+ERROR - 2019-04-10 09:32:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:33:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:33:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:34:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:38:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:39:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:39:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:39:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:41:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:41:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:41:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:43:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:56:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:57:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 09:58:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:04:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:05:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:14:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:15:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:16:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:16:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:16:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:16:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:17:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:17:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:20:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:20:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:21:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:21:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:21:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:22:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:23:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:27:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:28:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:29:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 15:29:25 --> Severity: error --> Exception: Call to undefined method M_admission::get_list_pendaftaran() C:\xampp\htdocs\klinik\application\controllers\Api\Admission.php 37
+ERROR - 2019-04-10 10:30:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 15:30:15 --> Query error: Not unique table/alias: 'p' - Invalid query: select pd.*, p.nama, p.kelamin, p.alamat, us.username, gu.nama as group_user
+        		from tb_pendaftaran_mi p
+				join tb_pasien p on p.id_pasien = pd.id
+				join tb_users us on us.id = p.id_users
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '2019-04-10' and '2019-04-10' 
+                group by p.id order by p.waktu_daftar desc limit 0, 10
+ERROR - 2019-04-10 10:32:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 15:32:20 --> Query error: Unknown column 'p.waktu_daftar' in 'where clause' - Invalid query: select pd.*, p.nama, p.kelamin, p.alamat, us.username, gu.nama as group_user
+                from tb_pendaftaran pd
+                join tb_pasien p on pd.id_pasien = p.id
+                join tb_users us on us.id = pd.id_users
+                join tb_group_users gu on pd.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '2019-04-10' and '2019-04-10' 
+                group by p.id order by p.waktu_daftar desc limit 0, 10
+ERROR - 2019-04-10 10:33:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 15:33:01 --> Query error: Unknown column 'p.waktu_daftar' in 'where clause' - Invalid query: select pd.*, p.nama, p.kelamin, p.alamat, us.username, gu.nama as group_user
+                from tb_pendaftaran pd
+                join tb_pasien p on pd.id_pasien = p.id
+                join tb_users us on us.id = pd.id_users
+                join tb_group_users gu on pd.id_users = gu.id
+                where pd.id is not null  and date(p.waktu_daftar) between '2019-04-10' and '2019-04-10' 
+                group by pd.id order by pd.waktu_daftar desc limit 0, 10
+ERROR - 2019-04-10 10:33:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:41:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:42:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:44:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:45:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:46:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 10:47:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:47:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:48:10 --> Query error: Column 'jenis_identitas' cannot be null - Invalid query: INSERT INTO `tb_pasien` (`id`, `tanggal_daftar`, `nama`, `kelamin`, `alamat`, `id_kelurahan`, `tempat_lahir`, `agama`, `gol_darah`, `id_pendidikan`, `id_pekerjaan`, `status_pernikahan`, `telp`, `jenis_identitas`, `no_identitas`, `nama_ayah`, `nama_ibu`) VALUES ('000001', '2019-04-10', 'FAIZ MUHAMMAD SYAM', 'L', 'JL. PEMBANGUNAN 3', '49092', '1275', 'ISLAM', 'O Rh-', '11', '12', 'Belum Menikah', '0', NULL, '0', 'SYAMSURI', 'SITI BADRIAH')
+ERROR - 2019-04-10 12:48:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:49:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:50:13 --> Query error: Column 'id_pendidikan' cannot be null - Invalid query: INSERT INTO `tb_pasien` (`id`, `tanggal_daftar`, `nama`, `kelamin`, `alamat`, `id_kelurahan`, `tempat_lahir`, `agama`, `gol_darah`, `id_pendidikan`, `id_pekerjaan`, `status_pernikahan`, `telp`, `jenis_identitas`, `no_identitas`, `nama_ayah`, `nama_ibu`) VALUES ('000001', '2019-04-10', 'FAIZ', 'L', 'TANGERANG', '49092', '1275', 'ISLAM', '', NULL, NULL, 'Belum Menikah', '0', NULL, '', '', '')
+ERROR - 2019-04-10 17:51:45 --> Query error: Column 'jenis_identitas' cannot be null - Invalid query: INSERT INTO `tb_pasien` (`id`, `tanggal_daftar`, `nama`, `kelamin`, `alamat`, `id_kelurahan`, `tempat_lahir`, `agama`, `gol_darah`, `id_pendidikan`, `id_pekerjaan`, `status_pernikahan`, `telp`, `jenis_identitas`, `no_identitas`, `nama_ayah`, `nama_ibu`) VALUES ('000001', '2019-04-10', 'FAIZ', 'L', 'PEMBANGUNAN 3', '49092', '1105', 'ISLAM', 'A Rh+', NULL, NULL, 'Belum Menikah', '0', NULL, '0', '', '')
+ERROR - 2019-04-10 12:52:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:56:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:56:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:57:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:57:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:57:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:58:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:58:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:59:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 12:59:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:00:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:00:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:02:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:02:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:21:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:22:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:22:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:24:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:25:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:32:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 13:48:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:02:20 --> Query error: Unknown column 'tanggal_lahir' in 'field list' - Invalid query: INSERT INTO `tb_pasien` (`id`, `tanggal_daftar`, `nama`, `kelamin`, `alamat`, `id_kelurahan`, `tempat_lahir`, `tanggal_lahir`, `agama`, `gol_darah`, `id_pendidikan`, `id_pekerjaan`, `status_pernikahan`, `telp`, `jenis_identitas`, `no_identitas`, `nama_ayah`, `nama_ibu`) VALUES ('000003', '2019-04-10', 'COBA NY', 'P', 'ASASDA', '20253', '1107', '2019-04-07', 'ISLAM', 'A Rh+', '2', '3', 'Duda', '544646456', NULL, '2342423424', 'ESDSFSF', 'SDFSDFSFSD')
+ERROR - 2019-04-10 14:02:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:03:14 --> Query error: Unknown column 'tanggal_lahir' in 'field list' - Invalid query: UPDATE `tb_pasien` SET `id` = '000002', `tanggal_daftar` = '2019-04-10', `nama` = 'ASAD AN', `kelamin` = 'P', `alamat` = 'ADSD', `id_kelurahan` = '61323', `tempat_lahir` = '1108', `tanggal_lahir` = '2019-04-03', `agama` = 'ISLAM', `gol_darah` = 'A Rh+', `id_pendidikan` = '1', `id_pekerjaan` = '3', `status_pernikahan` = 'Belum Menikah', `telp` = '02324', `jenis_identitas` = NULL, `no_identitas` = '23424', `nama_ayah` = 'ZCZXC', `nama_ibu` = 'XVXV'
+WHERE `id` = '000002'
+ERROR - 2019-04-10 14:04:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:05:36 --> Severity: error --> Exception: Call to undefined method M_admission::get_formulir_mi_detail() C:\xampp\htdocs\klinik\application\controllers\Printing.php 14
+ERROR - 2019-04-10 19:07:46 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-10 19:07:46 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-10 14:07:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:07:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:07:53 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-10 19:07:53 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-10 14:10:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:10:17 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-10 19:10:17 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-10 19:10:39 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-10 19:10:39 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-10 19:10:39 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-10 19:10:39 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-10 14:12:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:30:15 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_pasien`, CONSTRAINT `tb_pasien_ibfk_5` FOREIGN KEY (`tempat_lahir`) REFERENCES `tb_kabupaten_kota` (`id`) ON UPDATE CASCADE) - Invalid query: UPDATE `tb_pasien` SET `id` = '000003', `tanggal_daftar` = '2019-04-10', `nama` = 'ASDADA NY', `kelamin` = 'P', `alamat` = 'ASDADADA', `id_kelurahan` = '20234', `tempat_lahir` = 'KABUPATEN ACEH BARAT', `tanggal_lahir` = '2019-04-02', `agama` = 'KRISTEN', `gol_darah` = 'A Rh-', `id_pendidikan` = '4', `id_pekerjaan` = '5', `status_pernikahan` = 'Menikah', `telp` = '78768657', `jenis_identitas` = NULL, `no_identitas` = '4564563', `nama_ayah` = 'AASDA', `nama_ibu` = 'ASDASD'
+WHERE `id` = '000003'
+ERROR - 2019-04-10 14:30:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:30:37 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_pasien`, CONSTRAINT `tb_pasien_ibfk_5` FOREIGN KEY (`tempat_lahir`) REFERENCES `tb_kabupaten_kota` (`id`) ON UPDATE CASCADE) - Invalid query: UPDATE `tb_pasien` SET `id` = '000001', `tanggal_daftar` = '2019-04-10', `nama` = 'FAIZ', `kelamin` = 'L', `alamat` = 'PEMBANGUNAN 3', `id_kelurahan` = '49092', `tempat_lahir` = 'KOTA MEDAN', `tanggal_lahir` = '0000-00-00', `agama` = 'ISLAM', `gol_darah` = 'A Rh+', `id_pendidikan` = '5', `id_pekerjaan` = '15', `status_pernikahan` = 'Belum Menikah', `telp` = '0', `jenis_identitas` = NULL, `no_identitas` = '0', `nama_ayah` = 'SYAMSURI', `nama_ibu` = 'BADRIAH'
+WHERE `id` = '000001'
+ERROR - 2019-04-10 14:31:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:33:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:33:52 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_users`, CONSTRAINT `tb_users_ibfk_2` FOREIGN KEY (`id_unit`) REFERENCES `tb_units` (`id`) ON UPDATE CASCADE) - Invalid query: UPDATE `tb_users` SET `id` = '1', `username` = 'faizmsyam', `id_group_users` = '1', `id_unit` = ''
+WHERE `id` = '1'
+ERROR - 2019-04-10 14:33:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:45:18 --> Severity: Notice --> Undefined variable: jenis_kasus C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 568
+ERROR - 2019-04-10 19:45:18 --> Severity: Notice --> Undefined variable: profesi C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 645
+ERROR - 2019-04-10 19:45:18 --> Severity: Notice --> Undefined variable: kelas C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 666
+ERROR - 2019-04-10 19:46:30 --> Severity: Notice --> Undefined variable: jenis_kasus C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 568
+ERROR - 2019-04-10 19:46:30 --> Severity: Notice --> Undefined variable: profesi C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 645
+ERROR - 2019-04-10 19:46:30 --> Severity: Notice --> Undefined variable: kelas C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 666
+ERROR - 2019-04-10 14:46:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:51:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:51:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:52:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:53:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:53:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:54:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:54:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:56:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:56:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 14:58:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:58:06 --> Severity: Notice --> Undefined variable: warga C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 340
+ERROR - 2019-04-10 19:58:06 --> Severity: Notice --> Undefined variable: status_keluarga C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 346
+ERROR - 2019-04-10 19:58:06 --> Severity: Notice --> Undefined variable: tinggal C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 399
+ERROR - 2019-04-10 19:58:06 --> Severity: Notice --> Undefined variable: transportasi C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 420
+ERROR - 2019-04-10 14:59:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 15:00:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 20:00:23 --> Severity: Notice --> Undefined variable: tinggal C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 293
+ERROR - 2019-04-10 20:00:23 --> Severity: Notice --> Undefined variable: transportasi C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 314
+ERROR - 2019-04-10 15:08:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:17:20 --> Severity: Notice --> Undefined variable: kelas_tindakan C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 911
+ERROR - 2019-04-10 21:17:22 --> Severity: Notice --> Undefined variable: kelas_tindakan C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 911
+ERROR - 2019-04-10 16:17:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 16:17:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:17:30 --> Severity: Notice --> Undefined variable: kelas_tindakan C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 911
+ERROR - 2019-04-10 16:17:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:17:40 --> Severity: Notice --> Undefined variable: kelas_tindakan C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 911
+ERROR - 2019-04-10 16:18:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 16:18:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:18:54 --> Severity: Notice --> Undefined variable: kelas_tindakan C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 911
+ERROR - 2019-04-10 16:18:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 16:18:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:19:02 --> Severity: Notice --> Undefined variable: kelas_tindakan C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 911
+ERROR - 2019-04-10 16:19:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:19:52 --> Severity: Notice --> Undefined variable: kelas_tindakan C:\xampp\htdocs\klinik\application\views\admission\pendaftaran\pendaftaran.php 911
+ERROR - 2019-04-10 16:31:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 16:34:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 16:35:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:35:19 --> Severity: Notice --> Undefined variable: id_layanan C:\xampp\htdocs\klinik\application\models\M_admission.php 209
+ERROR - 2019-04-10 21:35:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' 
+ERROR - 2019-04-10 21:35:25 --> Severity: Notice --> Undefined variable: id_layanan C:\xampp\htdocs\klinik\application\models\M_admission.php 209
+ERROR - 2019-04-10 21:35:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' 
+ERROR - 2019-04-10 16:38:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:45:26 --> Severity: Notice --> Undefined variable: id_layanan C:\xampp\htdocs\klinik\application\models\M_admission.php 208
+ERROR - 2019-04-10 21:45:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' 
+ERROR - 2019-04-10 16:45:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 16:47:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:47:52 --> Severity: Notice --> Undefined variable: id_layanan C:\xampp\htdocs\klinik\application\models\M_admission.php 208
+ERROR - 2019-04-10 21:47:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' 
+ERROR - 2019-04-10 16:50:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:50:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' 
+ERROR - 2019-04-10 16:55:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:55:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' and lp.id = '3'
+ERROR - 2019-04-10 16:55:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 21:55:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' and lp.id = '3'
+ERROR - 2019-04-10 21:56:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' and lp.id = '3'
+ERROR - 2019-04-10 21:58:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' and lp.id = '3'
+ERROR - 2019-04-10 21:58:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' and lp.id = '3'
+ERROR - 2019-04-10 21:58:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' and lp.id = '3'
+ERROR - 2019-04-10 21:58:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' and lp.id = '3'
+ERROR - 2019-04-10 21:58:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran ' at line 2 - Invalid query: select lp.*, 
+                        from tb_layanan_pendaftaran lp
+                        where lp.id_pendaftaran = '4' and lp.id = '3'
+ERROR - 2019-04-10 21:59:11 --> Severity: error --> Exception: Call to undefined method M_admission::get_profil_pasien() C:\xampp\htdocs\klinik\application\controllers\Api\Admission.php 142
+ERROR - 2019-04-10 16:59:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:00:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:02:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:02:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:02:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:04:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:05:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:06:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:12:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:12:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:12:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:13:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:21:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:21:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:33:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:34:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:35:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:36:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:36:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:36:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:36:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 22:53:20 --> Severity: Notice --> Undefined property: Masterdata_auto::$m_masterdata C:\xampp\htdocs\klinik\application\controllers\Api\Masterdata_auto.php 100
+ERROR - 2019-04-10 22:53:20 --> Severity: error --> Exception: Call to a member function get_auto_dokter() on null C:\xampp\htdocs\klinik\application\controllers\Api\Masterdata_auto.php 100
+ERROR - 2019-04-10 17:53:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 22:53:26 --> Severity: Notice --> Undefined property: Masterdata_auto::$m_masterdata C:\xampp\htdocs\klinik\application\controllers\Api\Masterdata_auto.php 100
+ERROR - 2019-04-10 22:53:26 --> Severity: error --> Exception: Call to a member function get_auto_dokter() on null C:\xampp\htdocs\klinik\application\controllers\Api\Masterdata_auto.php 100
+ERROR - 2019-04-10 22:53:31 --> Query error: Unknown column 'pg.nama' in 'order clause' - Invalid query: select p.*from tb_pegawai p 
+        		where p.nama like ('%%') and (p.is_dokter = 'yes')
+        		order by pg.nama limit 0, 20
+ERROR - 2019-04-10 17:54:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:54:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:55:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:57:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 17:58:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:04:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:04:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:18:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:19:10 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\klinik\application\controllers\Api\Admission.php 76
+ERROR - 2019-04-10 23:19:10 --> Query error: Column 'tanggal_lahir' cannot be null - Invalid query: INSERT INTO `tb_pasien` (`id`, `tanggal_daftar`, `nama`, `kelamin`, `alamat`, `id_kelurahan`, `tempat_lahir`, `tanggal_lahir`, `agama`, `gol_darah`, `id_pendidikan`, `id_pekerjaan`, `status_pernikahan`, `telp`, `jenis_identitas`, `no_identitas`, `nama_ayah`, `nama_ibu`) VALUES ('000002', '2019-04-10', '', '', '', NULL, '', NULL, '', '', NULL, NULL, 'Belum Menikah', '', NULL, '', '', '')
+ERROR - 2019-04-10 23:19:24 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\klinik\application\controllers\Api\Admission.php 76
+ERROR - 2019-04-10 23:19:24 --> Query error: Column 'tanggal_lahir' cannot be null - Invalid query: INSERT INTO `tb_pasien` (`id`, `tanggal_daftar`, `nama`, `kelamin`, `alamat`, `id_kelurahan`, `tempat_lahir`, `tanggal_lahir`, `agama`, `gol_darah`, `id_pendidikan`, `id_pekerjaan`, `status_pernikahan`, `telp`, `jenis_identitas`, `no_identitas`, `nama_ayah`, `nama_ibu`) VALUES ('000002', '2019-04-10', '', '', '', NULL, '', NULL, '', '', NULL, NULL, 'Belum Menikah', '', NULL, '', '', '')
+ERROR - 2019-04-10 23:19:38 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\klinik\application\controllers\Api\Admission.php 76
+ERROR - 2019-04-10 23:19:38 --> Query error: Column 'tanggal_lahir' cannot be null - Invalid query: INSERT INTO `tb_pasien` (`id`, `tanggal_daftar`, `nama`, `kelamin`, `alamat`, `id_kelurahan`, `tempat_lahir`, `tanggal_lahir`, `agama`, `gol_darah`, `id_pendidikan`, `id_pekerjaan`, `status_pernikahan`, `telp`, `jenis_identitas`, `no_identitas`, `nama_ayah`, `nama_ibu`) VALUES ('000002', '2019-04-10', '', '', '', NULL, '', NULL, '', '', NULL, NULL, 'Belum Menikah', '', NULL, '', '', '')
+ERROR - 2019-04-10 18:19:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:20:13 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\klinik\application\controllers\Api\Admission.php 76
+ERROR - 2019-04-10 23:20:13 --> Query error: Column 'tanggal_lahir' cannot be null - Invalid query: INSERT INTO `tb_pasien` (`id`, `tanggal_daftar`, `nama`, `kelamin`, `alamat`, `id_kelurahan`, `tempat_lahir`, `tanggal_lahir`, `agama`, `gol_darah`, `id_pendidikan`, `id_pekerjaan`, `status_pernikahan`, `telp`, `jenis_identitas`, `no_identitas`, `nama_ayah`, `nama_ibu`) VALUES ('000002', '2019-04-10', '', '', '', NULL, '', NULL, '', '', NULL, NULL, 'Belum Menikah', '', NULL, '', '', '')
+ERROR - 2019-04-10 18:21:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:21:30 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 23:21:52 --> Severity: Notice --> Trying to get property 'waktu_periksa' of non-object C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 18:22:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:22:07 --> Severity: Compile Error --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead) C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 23:22:15 --> Severity: Compile Error --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead) C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 18:22:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:22:55 --> Severity: Notice --> Trying to get property 'waktu_periksa' of non-object C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 18:25:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:25:30 --> Severity: Notice --> Trying to get property 'waktu_periksa' of non-object C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 18:27:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:27:29 --> Severity: Notice --> Trying to get property 'waktu_periksa' of non-object C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 18:29:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:29:15 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 23:29:36 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 18:29:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:29:46 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\klinik\application\models\M_admission.php 236
+ERROR - 2019-04-10 18:30:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:32:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:33:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:38:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:39:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:41:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:41:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:44:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:47:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 23:47:05 --> Severity: Notice --> Undefined index: id_layanan C:\xampp\htdocs\klinik\application\models\M_admission.php 220
+ERROR - 2019-04-10 18:47:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:49:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:50:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:54:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 18:56:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:01:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:01:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:01:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:01:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:01:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:05:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:11:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:33:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:36:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:40:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:43:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:43:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:44:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:46:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:46:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:47:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:50:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:55:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:55:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:56:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 19:57:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 20:00:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 20:01:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 20:10:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 20:10:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-10 20:11:57 --> 404 Page Not Found: Assets/plugins

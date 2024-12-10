@@ -1,0 +1,346 @@
+ERROR - 2019-03-19 04:35:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 04:55:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 04:55:59 --> 404 Page Not Found: Export/export_data_pendaftaran_mi
+ERROR - 2019-03-19 06:23:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 12:23:30 --> Severity: error --> Exception: Call to undefined method Export::start() C:\xampp\htdocs\sisdemik\application\controllers\Export.php 22
+ERROR - 2019-03-19 12:23:55 --> Severity: Notice --> Undefined property: Export::$limit C:\xampp\htdocs\sisdemik\application\controllers\Export.php 22
+ERROR - 2019-03-19 12:23:55 --> Severity: error --> Exception: Too few arguments to function M_admission::get_list_pendaftaran_mi(), 2 passed in C:\xampp\htdocs\sisdemik\application\controllers\Export.php on line 22 and exactly 3 expected C:\xampp\htdocs\sisdemik\application\models\M_admission.php 37
+ERROR - 2019-03-19 12:24:01 --> Severity: error --> Exception: Too few arguments to function M_admission::get_list_pendaftaran_mi(), 1 passed in C:\xampp\htdocs\sisdemik\application\controllers\Export.php on line 22 and exactly 3 expected C:\xampp\htdocs\sisdemik\application\models\M_admission.php 37
+ERROR - 2019-03-19 06:24:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 06:24:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 12:24:06 --> Severity: error --> Exception: Too few arguments to function M_admission::get_list_pendaftaran_mi(), 1 passed in C:\xampp\htdocs\sisdemik\application\controllers\Export.php on line 22 and exactly 3 expected C:\xampp\htdocs\sisdemik\application\models\M_admission.php 37
+ERROR - 2019-03-19 12:26:20 --> Severity: Notice --> Undefined variable: start C:\xampp\htdocs\sisdemik\application\models\M_admission.php 57
+ERROR - 2019-03-19 12:26:20 --> Severity: Notice --> Undefined variable: limit C:\xampp\htdocs\sisdemik\application\models\M_admission.php 57
+ERROR - 2019-03-19 12:26:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:26:43 --> Severity: error --> Exception: Call to undefined method Export::start() C:\xampp\htdocs\sisdemik\application\controllers\Export.php 22
+ERROR - 2019-03-19 12:27:08 --> Severity: Notice --> Undefined property: Export::$limit C:\xampp\htdocs\sisdemik\application\controllers\Export.php 22
+ERROR - 2019-03-19 12:27:08 --> Severity: Notice --> Undefined variable: start C:\xampp\htdocs\sisdemik\application\controllers\Export.php 22
+ERROR - 2019-03-19 12:27:08 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:27:37 --> Severity: Notice --> Undefined property: Export::$limit C:\xampp\htdocs\sisdemik\application\controllers\Export.php 27
+ERROR - 2019-03-19 12:27:37 --> Severity: Notice --> Undefined variable: start C:\xampp\htdocs\sisdemik\application\controllers\Export.php 27
+ERROR - 2019-03-19 12:27:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:27:38 --> Severity: Notice --> Undefined property: Export::$limit C:\xampp\htdocs\sisdemik\application\controllers\Export.php 27
+ERROR - 2019-03-19 12:27:38 --> Severity: Notice --> Undefined variable: start C:\xampp\htdocs\sisdemik\application\controllers\Export.php 27
+ERROR - 2019-03-19 12:27:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:27:48 --> Severity: Notice --> Undefined property: Export::$limit C:\xampp\htdocs\sisdemik\application\controllers\Export.php 27
+ERROR - 2019-03-19 12:27:48 --> Severity: error --> Exception: Too few arguments to function M_admission::get_list_pendaftaran_mi(), 2 passed in C:\xampp\htdocs\sisdemik\application\controllers\Export.php on line 27 and exactly 3 expected C:\xampp\htdocs\sisdemik\application\models\M_admission.php 37
+ERROR - 2019-03-19 12:28:11 --> Severity: Notice --> Undefined variable: start C:\xampp\htdocs\sisdemik\application\controllers\Export.php 28
+ERROR - 2019-03-19 12:28:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 10
+ERROR - 2019-03-19 12:28:18 --> Severity: error --> Exception: Too few arguments to function M_admission::get_list_pendaftaran_mi(), 2 passed in C:\xampp\htdocs\sisdemik\application\controllers\Export.php on line 28 and exactly 3 expected C:\xampp\htdocs\sisdemik\application\models\M_admission.php 37
+ERROR - 2019-03-19 12:31:44 --> Severity: Notice --> Undefined variable: start C:\xampp\htdocs\sisdemik\application\controllers\Export.php 28
+ERROR - 2019-03-19 12:31:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 10
+ERROR - 2019-03-19 12:33:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:34:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:34:40 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:34:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:35:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:36:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id 
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:36:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username, gu.nama as group_user 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                join tb_group_users gu on p.id_users = gu.id 
+                where p.id is not null  and date(p.waktu_daftar) between '' and '2019-03-19'  
+                group by p.id order by p.waktu_daftar desc limit  , 
+ERROR - 2019-03-19 12:37:51 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:37:51 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:37:51 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:37:51 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:37:51 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:37:51 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:37:56 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:37:56 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:37:56 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:37:56 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:37:56 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:37:56 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:39:22 --> Severity: error --> Exception: Call to a member function row() on array C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 17
+ERROR - 2019-03-19 12:39:23 --> Severity: error --> Exception: Call to a member function row() on array C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 17
+ERROR - 2019-03-19 12:39:27 --> Severity: error --> Exception: Call to a member function row() on array C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 17
+ERROR - 2019-03-19 12:39:27 --> Severity: error --> Exception: Call to a member function row() on array C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 17
+ERROR - 2019-03-19 12:39:40 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:39:40 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:39:40 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:39:40 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:39:40 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:39:40 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:39:53 --> Severity: error --> Exception: Call to a member function row() on array C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 17
+ERROR - 2019-03-19 12:39:53 --> Severity: error --> Exception: Call to a member function row() on array C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 17
+ERROR - 2019-03-19 12:40:21 --> Severity: Notice --> Undefined index: no_register C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:40:21 --> Severity: Notice --> Undefined index: nama C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:40:21 --> Severity: Notice --> Undefined index: kelamin C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:41:16 --> Severity: Notice --> Undefined index: no_register C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:41:16 --> Severity: Notice --> Undefined index: nama C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:41:16 --> Severity: Notice --> Undefined index: kelamin C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:41:16 --> Severity: Notice --> Undefined index: no_register C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:41:16 --> Severity: Notice --> Undefined index: nama C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:41:16 --> Severity: Notice --> Undefined index: kelamin C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:42:21 --> Severity: error --> Exception: Call to a member function result_array() on array C:\xampp\htdocs\sisdemik\application\controllers\Export.php 22
+ERROR - 2019-03-19 12:42:31 --> Severity: error --> Exception: Call to a member function row() on array C:\xampp\htdocs\sisdemik\application\controllers\Export.php 22
+ERROR - 2019-03-19 12:42:49 --> Severity: Notice --> Undefined index: no_register C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:42:49 --> Severity: Notice --> Undefined index: nama C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:42:49 --> Severity: Notice --> Undefined index: kelamin C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:43:14 --> Severity: Notice --> Undefined index: no_register C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:43:14 --> Severity: Notice --> Undefined index: nama C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:43:14 --> Severity: Notice --> Undefined index: kelamin C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:43:19 --> Severity: Notice --> Undefined index: no_register C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:43:19 --> Severity: Notice --> Undefined index: nama C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:43:19 --> Severity: Notice --> Undefined index: kelamin C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:46:59 --> Severity: Notice --> Undefined index: no_register C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:46:59 --> Severity: Notice --> Undefined index: nama C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:46:59 --> Severity: Notice --> Undefined index: kelamin C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:46:59 --> Severity: Notice --> Undefined index: no_register C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:46:59 --> Severity: Notice --> Undefined index: nama C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:46:59 --> Severity: Notice --> Undefined index: kelamin C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:48:46 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:48:46 --> Severity: Notice --> Trying to get property 'Nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:48:46 --> Severity: Notice --> Trying to get property 'Kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:48:46 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:48:46 --> Severity: Notice --> Trying to get property 'Nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:48:46 --> Severity: Notice --> Trying to get property 'Kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:50:36 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:50:36 --> Severity: Notice --> Trying to get property 'Nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:50:36 --> Severity: Notice --> Trying to get property 'Kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:50:36 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:50:36 --> Severity: Notice --> Trying to get property 'Nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:50:36 --> Severity: Notice --> Trying to get property 'Kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:51:14 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:51:14 --> Severity: Notice --> Trying to get property 'Nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:51:14 --> Severity: Notice --> Trying to get property 'Kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:51:14 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:51:14 --> Severity: Notice --> Trying to get property 'Nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:51:14 --> Severity: Notice --> Trying to get property 'Kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:51:18 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:51:18 --> Severity: Notice --> Trying to get property 'Nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:51:18 --> Severity: Notice --> Trying to get property 'Kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:51:18 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 12:51:18 --> Severity: Notice --> Trying to get property 'Nama' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:51:18 --> Severity: Notice --> Trying to get property 'Kelamin' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:53:17 --> Severity: Notice --> Undefined property: stdClass::$Nama C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 20
+ERROR - 2019-03-19 12:53:17 --> Severity: Notice --> Undefined property: stdClass::$Kelamin C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 21
+ERROR - 2019-03-19 12:58:54 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 12:59:12 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 12:59:46 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 12:59:49 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:01:46 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 13:01:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 19
+ERROR - 2019-03-19 13:03:23 --> Severity: Notice --> Undefined property: stdClass::$title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 24
+ERROR - 2019-03-19 13:03:33 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 24
+ERROR - 2019-03-19 13:04:23 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 14
+ERROR - 2019-03-19 13:04:35 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 14
+ERROR - 2019-03-19 13:04:35 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 14
+ERROR - 2019-03-19 13:04:36 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 14
+ERROR - 2019-03-19 13:04:36 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 14
+ERROR - 2019-03-19 13:05:55 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:06:00 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:06:52 --> Severity: Notice --> Undefined variable: judul C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:07:39 --> Severity: Notice --> Trying to get property 'judul' of non-object C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:09:07 --> Severity: Notice --> Undefined variable: judul C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:09:38 --> Severity: Notice --> Undefined variable: judul C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:10:38 --> Severity: Notice --> Undefined variable: judul C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:11:31 --> Severity: Notice --> Undefined variable: judul C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:11:50 --> Severity: Notice --> Undefined variable: judul C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 3
+ERROR - 2019-03-19 13:13:08 --> Severity: Notice --> Undefined variable: judul C:\xampp\htdocs\sisdemik\application\views\export\pendaftaran_mi\export_pendaftaran_mi.php 6
+ERROR - 2019-03-19 07:22:23 --> Severity: error --> Exception: syntax error, unexpected ';' C:\xampp\htdocs\sisdemik\application\controllers\Export.php 23
+ERROR - 2019-03-19 13:22:29 --> Severity: Notice --> Undefined variable: awal C:\xampp\htdocs\sisdemik\application\controllers\Export.php 23
+ERROR - 2019-03-19 13:22:29 --> Severity: Notice --> Undefined variable: akhir C:\xampp\htdocs\sisdemik\application\controllers\Export.php 23
+ERROR - 2019-03-19 13:22:41 --> Severity: Notice --> Undefined variable: awal C:\xampp\htdocs\sisdemik\application\controllers\Export.php 23
+ERROR - 2019-03-19 13:22:41 --> Severity: Notice --> Undefined variable: akhir C:\xampp\htdocs\sisdemik\application\controllers\Export.php 23
+ERROR - 2019-03-19 10:30:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 10:30:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 10:30:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 10:34:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 10:49:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 10:51:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:00:12 --> 404 Page Not Found: Masterdata/wilayah
+ERROR - 2019-03-19 15:06:50 --> 404 Page Not Found: Masterdata/wilayah
+ERROR - 2019-03-19 15:06:53 --> 404 Page Not Found: Masterdata/wilayah
+ERROR - 2019-03-19 15:06:54 --> 404 Page Not Found: Masterdata/wilayah
+ERROR - 2019-03-19 15:06:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:07:00 --> 404 Page Not Found: Masterdata/wilayah
+ERROR - 2019-03-19 15:07:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:07:27 --> 404 Page Not Found: Masterdata/wilayah
+ERROR - 2019-03-19 15:07:30 --> 404 Page Not Found: Masterdata/wilayah
+ERROR - 2019-03-19 15:07:37 --> 404 Page Not Found: Masterdata/wilayah
+ERROR - 2019-03-19 15:07:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:07:58 --> 404 Page Not Found: Masterdata/provinsi
+ERROR - 2019-03-19 15:08:03 --> 404 Page Not Found: Masterdata/kabupaten_kota
+ERROR - 2019-03-19 15:08:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:08:07 --> 404 Page Not Found: Masterdata/provinsi
+ERROR - 2019-03-19 15:12:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:12:27 --> 404 Page Not Found: Masterdata/provinsi
+ERROR - 2019-03-19 15:12:43 --> 404 Page Not Found: Masterdata/provinsi
+ERROR - 2019-03-19 15:14:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:28:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:29:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:29:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:37:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:38:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:40:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:41:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 21:41:26 --> Query error: Duplicate entry '0' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_provinsi` (`id`, `nama`) VALUES (0, 'TEST')
+ERROR - 2019-03-19 15:46:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:46:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:46:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:52:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 21:52:16 --> Severity: Warning --> str_pad() expects at least 2 parameters, 1 given C:\xampp\htdocs\sisdemik\application\models\M_masterdata.php 363
+ERROR - 2019-03-19 21:52:16 --> Severity: Notice --> Undefined variable: format C:\xampp\htdocs\sisdemik\application\models\M_masterdata.php 363
+ERROR - 2019-03-19 21:52:33 --> Severity: Notice --> Undefined variable: format C:\xampp\htdocs\sisdemik\application\models\M_masterdata.php 363
+ERROR - 2019-03-19 15:53:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:54:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:56:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:56:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 15:56:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 16:19:26 --> Severity: error --> Exception: syntax error, unexpected '$add' (T_VARIABLE) C:\xampp\htdocs\sisdemik\application\controllers\Api\Masterdata.php 186
+ERROR - 2019-03-19 16:19:27 --> Severity: error --> Exception: syntax error, unexpected '$add' (T_VARIABLE) C:\xampp\htdocs\sisdemik\application\controllers\Api\Masterdata.php 186
+ERROR - 2019-03-19 16:19:27 --> Severity: error --> Exception: syntax error, unexpected '$add' (T_VARIABLE) C:\xampp\htdocs\sisdemik\application\controllers\Api\Masterdata.php 186
+ERROR - 2019-03-19 16:19:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 16:19:33 --> Severity: error --> Exception: syntax error, unexpected '$add' (T_VARIABLE) C:\xampp\htdocs\sisdemik\application\controllers\Api\Masterdata.php 186
+ERROR - 2019-03-19 16:19:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 16:23:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 16:23:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 16:24:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:06:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:07:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:09:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:09:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:11:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:11:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:12:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:14:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:14:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:15:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:15:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:17:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:18:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:19:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:24:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 23:29:30 --> Query error: Unknown column 'k.kode' in 'where clause' - Invalid query: select k.*, IFNULL(p.nama, '') as provinsi from tb_kabupaten_kota k
+                join tb_provinsi p on (k.id_provinsi = p.id)
+                where k.id is not null and k.nama like '%k%' or k.kode like '%k%' or p.nama like '%k%'  order by k.nama  limit 0 , 10
+ERROR - 2019-03-19 17:29:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 23:29:36 --> Query error: Unknown column 'k.kode' in 'where clause' - Invalid query: select k.*, IFNULL(p.nama, '') as provinsi from tb_kabupaten_kota k
+                join tb_provinsi p on (k.id_provinsi = p.id)
+                where k.id is not null and k.nama like '%k%' or k.kode like '%k%' or p.nama like '%k%'  order by k.nama  limit 0 , 10
+ERROR - 2019-03-19 17:30:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:32:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 23:33:01 --> Query error: Column 'id_provinsi' cannot be null - Invalid query: INSERT INTO `tb_kabupaten_kota` (`id`, `id_provinsi`, `nama`) VALUES (0, NULL, '')
+ERROR - 2019-03-19 23:34:52 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`sisdemik`.`tb_kabupaten_kota`, CONSTRAINT `tb_kabupaten_kota_ibfk_1` FOREIGN KEY (`id_provinsi`) REFERENCES `tb_provinsi` (`id`)) - Invalid query: INSERT INTO `tb_kabupaten_kota` (`id`, `id_provinsi`, `nama`) VALUES (0, '', '')
+ERROR - 2019-03-19 17:34:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 23:35:07 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`sisdemik`.`tb_kabupaten_kota`, CONSTRAINT `tb_kabupaten_kota_ibfk_1` FOREIGN KEY (`id_provinsi`) REFERENCES `tb_provinsi` (`id`)) - Invalid query: INSERT INTO `tb_kabupaten_kota` (`id`, `id_provinsi`, `nama`) VALUES (0, '', '')
+ERROR - 2019-03-19 17:35:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:36:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:51:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:51:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 17:51:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:11:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:12:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:13:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:19:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:19:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:20:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:21:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:22:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:22:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:23:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:24:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:26:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:26:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:39:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:39:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:44:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:45:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:46:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:47:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:48:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:51:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:52:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:54:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:54:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 18:55:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:00:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:14:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:15:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:18:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:18:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:18:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:19:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:20:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:21:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:23:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:23:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:29:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:31:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-19 19:36:46 --> 404 Page Not Found: Assets/plugins

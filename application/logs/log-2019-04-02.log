@@ -1,0 +1,10 @@
+ERROR - 2019-04-02 05:22:08 --> Severity: error --> Exception: syntax error, unexpected ',' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 64
+ERROR - 2019-04-02 05:22:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-02 05:22:13 --> Severity: error --> Exception: syntax error, unexpected ',' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 64
+ERROR - 2019-04-02 05:22:45 --> Severity: error --> Exception: syntax error, unexpected ',' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 66
+ERROR - 2019-04-02 05:23:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-02 06:52:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-02 06:52:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-02 06:54:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-02 14:15:38 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`sisdemik`.`tb_users`, CONSTRAINT `tb_users_ibfk_2` FOREIGN KEY (`id_unit`) REFERENCES `tb_units` (`id`) ON UPDATE CASCADE) - Invalid query: UPDATE `tb_users` SET `id` = '1', `username` = 'admin', `id_group_users` = '1', `id_unit` = ''
+WHERE `id` = '1'

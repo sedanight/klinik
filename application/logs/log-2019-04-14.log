@@ -1,0 +1,545 @@
+ERROR - 2019-04-14 00:05:32 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:05:32 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:05:45 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:05:45 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:05:51 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:05:51 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:05:53 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:05:53 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:06:17 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:06:17 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:06:31 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:06:31 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:06:35 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:06:35 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:06:41 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:06:41 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:06:49 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:06:49 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:06:50 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:06:50 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:06:57 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 00:06:57 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 00:35:30 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\template.php 249
+ERROR - 2019-04-14 00:35:38 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\template.php 249
+ERROR - 2019-04-14 00:35:49 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\template.php 249
+ERROR - 2019-04-14 00:36:14 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\template.php 249
+ERROR - 2019-04-14 00:36:17 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\template.php 249
+ERROR - 2019-04-14 00:36:23 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\template.php 249
+ERROR - 2019-04-14 00:36:27 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\template.php 249
+ERROR - 2019-04-14 05:24:53 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\template.php 249
+ERROR - 2019-04-14 05:25:14 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\template.php 249
+ERROR - 2019-04-14 00:26:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-04-14 01:00:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:00:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:01:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:01:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:02:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:02:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:06:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:06:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:06:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:06:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:06:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:06:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:07:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:07:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:07:41 --> 404 Page Not Found: Wavesminjsmap/index
+ERROR - 2019-04-14 01:07:41 --> 404 Page Not Found: Toastrjsmap/index
+ERROR - 2019-04-14 01:07:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:07:42 --> 404 Page Not Found: Wavesminjsmap/index
+ERROR - 2019-04-14 01:07:42 --> 404 Page Not Found: Toastrjsmap/index
+ERROR - 2019-04-14 01:07:43 --> 404 Page Not Found: Wavesminjsmap/index
+ERROR - 2019-04-14 01:07:43 --> 404 Page Not Found: Toastrjsmap/index
+ERROR - 2019-04-14 01:07:44 --> 404 Page Not Found: Wavesminjsmap/index
+ERROR - 2019-04-14 01:07:44 --> 404 Page Not Found: Toastrjsmap/index
+ERROR - 2019-04-14 01:07:45 --> 404 Page Not Found: Wavesminjsmap/index
+ERROR - 2019-04-14 01:07:45 --> 404 Page Not Found: Toastrjsmap/index
+ERROR - 2019-04-14 01:07:46 --> 404 Page Not Found: Wavesminjsmap/index
+ERROR - 2019-04-14 01:07:47 --> 404 Page Not Found: Toastrjsmap/index
+ERROR - 2019-04-14 01:07:48 --> 404 Page Not Found: Wavesminjsmap/index
+ERROR - 2019-04-14 01:07:48 --> 404 Page Not Found: Toastrjsmap/index
+ERROR - 2019-04-14 01:07:49 --> 404 Page Not Found: Wavesminjsmap/index
+ERROR - 2019-04-14 01:07:49 --> 404 Page Not Found: Toastrjsmap/index
+ERROR - 2019-04-14 06:11:53 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:11:53 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 06:12:01 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:12:01 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 06:12:06 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:12:06 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 06:12:08 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:12:08 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 06:12:13 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:12:13 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 01:12:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:12:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 06:12:41 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:12:41 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 01:12:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:12:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 06:12:44 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:12:44 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 01:12:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:12:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 06:13:06 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:13:06 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 01:13:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:13:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 06:13:09 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:13:09 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 01:13:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:13:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 06:13:14 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 156
+ERROR - 2019-04-14 06:13:14 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\views\template.php 186
+ERROR - 2019-04-14 01:13:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:13:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:13:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:13:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:13:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:13:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:13:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:13:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:28:04 --> 404 Page Not Found: Admission/pasien
+ERROR - 2019-04-14 06:32:31 --> Severity: error --> Exception: Call to undefined method M_masterdata::get_kelamin() C:\xampp\htdocs\klinik\application\controllers\Admission.php 31
+ERROR - 2019-04-14 01:32:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:32:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 06:32:40 --> Severity: error --> Exception: Call to undefined method M_masterdata::get_kelamin() C:\xampp\htdocs\klinik\application\controllers\Admission.php 31
+ERROR - 2019-04-14 01:33:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 01:33:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:10:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:10:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:10:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:10:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 07:10:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tb_pasien p
+                left join tb_kelurahan kel on (kel.id = p.id_kelura' at line 7 - Invalid query: select p.*,
+                    p.nama,
+                    IFNULL(kel.nama, '') as kelurahan,
+                    IFNULL(kec.nama, '') as kecamatan,
+                    IFNULL(kab.nama, '') as kabupaten,
+                    IFNULL(pd.nama, '') as pendidikan,
+                    IFNULL(pk.nama, '') as pekerjaanfrom tb_pasien p
+                left join tb_kelurahan kel on (kel.id = p.id_kelurahan)
+                left join tb_kecamatan kec on (kec.id = kel.id_kecamatan)
+                left join tb_kabupaten kab on (kab.id = kec.id_kabupaten)
+                left join tb_pendidikan pd on (pd.id = p.id_pendidikan)
+                left join tb_pekerjaan pk on (pk.id = p.id_pekerjaan)
+                where p.id is not null  order by p.id  limit 0 , 10
+ERROR - 2019-04-14 02:12:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:12:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 07:12:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tb_pasien p
+                left join tb_kelurahan kel on (kel.id = p.id_kelura' at line 7 - Invalid query: select p.*,
+                    p.nama,
+                    IFNULL(kel.nama, '') as kelurahan,
+                    IFNULL(kec.nama, '') as kecamatan,
+                    IFNULL(kab.nama, '') as kabupaten,
+                    IFNULL(pd.nama, '') as pendidikan,
+                    IFNULL(pk.nama, '') as pekerjaanfrom tb_pasien p
+                left join tb_kelurahan kel on (kel.id = p.id_kelurahan)
+                left join tb_kecamatan kec on (kec.id = kel.id_kecamatan)
+                left join tb_kabupaten_kota kab on (kab.id = kec.id_kabupaten_kota)
+                left join tb_pendidikan pd on (pd.id = p.id_pendidikan)
+                left join tb_pekerjaan pk on (pk.id = p.id_pekerjaan)
+                where p.id is not null  order by p.id  limit 0 , 10
+ERROR - 2019-04-14 02:12:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:12:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:14:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:14:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:14:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:14:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 07:17:22 --> Query error: Table 'db_klinik.tb_kabupaten' doesn't exist - Invalid query: select p.*,
+                IFNULL(kel.nama, '') as kelurahan,
+                IFNULL(kec.nama, '') as kecamatan,
+                IFNULL(kab.nama, '') as kabupaten,
+                IFNULL(prov.nama, '') as provinsi,
+                IFNULL(pd.nama, '') as pendidikan,
+                IFNULL(pk.nama, '') as pekerjaan
+                from tb_pasien p
+                left join tb_kelurahan kel on (kel.id = p.id_kelurahan)
+                left join tb_kecamatan kec on (kec.id = kel.id_kecamatan)
+                left join tb_kabupaten kab on (kab.id = kec.id_kabupaten)
+                left join tb_provinsi prov on (prov.id = kab.id_provinsi)
+                left join tb_pendidikan pd on (pd.id = p.id_pendidikan)
+                left join tb_pekerjaan pk on (pk.id = p.id_pekerjaan)
+                where p.id = '000001'
+ERROR - 2019-04-14 02:17:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:17:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 07:17:30 --> Query error: Table 'db_klinik.tb_kabupaten' doesn't exist - Invalid query: select p.*,
+                IFNULL(kel.nama, '') as kelurahan,
+                IFNULL(kec.nama, '') as kecamatan,
+                IFNULL(kab.nama, '') as kabupaten,
+                IFNULL(prov.nama, '') as provinsi,
+                IFNULL(pd.nama, '') as pendidikan,
+                IFNULL(pk.nama, '') as pekerjaan
+                from tb_pasien p
+                left join tb_kelurahan kel on (kel.id = p.id_kelurahan)
+                left join tb_kecamatan kec on (kec.id = kel.id_kecamatan)
+                left join tb_kabupaten kab on (kab.id = kec.id_kabupaten)
+                left join tb_provinsi prov on (prov.id = kab.id_provinsi)
+                left join tb_pendidikan pd on (pd.id = p.id_pendidikan)
+                left join tb_pekerjaan pk on (pk.id = p.id_pekerjaan)
+                where p.id = '000001'
+ERROR - 2019-04-14 02:17:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:17:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:23:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:23:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:24:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:24:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:25:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:25:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:47:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:47:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:52:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:52:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:54:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:54:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:54:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:54:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:55:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:55:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:56:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:56:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 07:56:50 --> Severity: Notice --> Undefined variable: upt_last_active C:\xampp\htdocs\klinik\application\models\M_admission.php 254
+ERROR - 2019-04-14 07:56:57 --> Severity: Notice --> Undefined variable: upt_last_active C:\xampp\htdocs\klinik\application\models\M_admission.php 254
+ERROR - 2019-04-14 02:59:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 02:59:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:04:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:04:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:05:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:05:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:05:20 --> 404 Page Not Found: api/Rekam_medis/data_pasien
+ERROR - 2019-04-14 03:09:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:09:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:10:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:10:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:15:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:15:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:15:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:15:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:16:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:16:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:19:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:19:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:19:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:19:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:20:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:20:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:20:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:20:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:23:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:23:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:25:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:25:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 08:25:38 --> Query error: Cannot delete or update a parent row: a foreign key constraint fails (`db_klinik`.`tb_pembayaran`, CONSTRAINT `tb_pembayaran_ibfk_2` FOREIGN KEY (`id_pasien`) REFERENCES `tb_pasien` (`id`) ON UPDATE CASCADE) - Invalid query: DELETE FROM `tb_pasien`
+WHERE `id` = '000008'
+ERROR - 2019-04-14 08:26:33 --> Query error: Cannot delete or update a parent row: a foreign key constraint fails (`db_klinik`.`tb_pembayaran`, CONSTRAINT `tb_pembayaran_ibfk_2` FOREIGN KEY (`id_pasien`) REFERENCES `tb_pasien` (`id`) ON UPDATE CASCADE) - Invalid query: DELETE FROM `tb_pasien`
+WHERE `id` = '000001'
+ERROR - 2019-04-14 03:27:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 03:27:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 05:08:21 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:09:23 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:09:24 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:09:24 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:10:17 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 38
+ERROR - 2019-04-14 05:10:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 05:10:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 05:10:31 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 38
+ERROR - 2019-04-14 05:11:19 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 38
+ERROR - 2019-04-14 05:11:20 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 38
+ERROR - 2019-04-14 05:11:25 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 38
+ERROR - 2019-04-14 05:13:05 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:13:06 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:13:06 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:13:07 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:13:07 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:13:16 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:13:57 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:13:57 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 05:13:58 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\klinik\application\controllers\Export.php 54
+ERROR - 2019-04-14 10:14:16 --> Severity: error --> Exception: Call to undefined method M_admission::get_list_pembayaran() C:\xampp\htdocs\klinik\application\controllers\Export.php 42
+ERROR - 2019-04-14 10:14:21 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 41
+ERROR - 2019-04-14 10:14:21 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 42
+ERROR - 2019-04-14 10:14:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  and pem.status = ''  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:14:51 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 41
+ERROR - 2019-04-14 10:14:51 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 42
+ERROR - 2019-04-14 10:14:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  and pem.status = ''  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:14:52 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 41
+ERROR - 2019-04-14 10:14:52 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 42
+ERROR - 2019-04-14 10:14:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  and pem.status = ''  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:15:12 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 41
+ERROR - 2019-04-14 10:15:12 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 42
+ERROR - 2019-04-14 10:15:12 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  and pem.status = ''  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:15:13 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 41
+ERROR - 2019-04-14 10:15:13 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 42
+ERROR - 2019-04-14 10:15:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  and pem.status = ''  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:15:16 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 41
+ERROR - 2019-04-14 10:15:16 --> Severity: Notice --> Undefined index: status_pembayaran C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 42
+ERROR - 2019-04-14 10:15:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  and pem.status = ''  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:15:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:16:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between ' ' and '2019-04-14'  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:16:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:17:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 10 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '2019-04-14' and '2019-04-14'  
+                group by lp.id order by pd.waktu_daftar desc limit  , 
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined variable: limitation C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 65
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:19:55 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:19:56 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 37
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 46
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 47
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 48
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 49
+ERROR - 2019-04-14 10:20:09 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 50
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 39
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 40
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 41
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 42
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 43
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 39
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 40
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 41
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 42
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 43
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 39
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 40
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 41
+ERROR - 2019-04-14 10:21:16 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 42
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 43
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 39
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 40
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 41
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 42
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 43
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined variable: kelamin C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 39
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined property: stdClass::$alamat C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 40
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 41
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 42
+ERROR - 2019-04-14 10:21:17 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 43
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$pemeriksaan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 36
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$pemeriksaan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 36
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$pemeriksaan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 36
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$pemeriksaan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 36
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$pemeriksaan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 35
+ERROR - 2019-04-14 10:22:31 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 36
+ERROR - 2019-04-14 10:42:24 --> Query error: Invalid use of group function - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar,
+                pem.pemeriksaan, pem.tindakan, pem.obat_obatan, pem.laboratorium, pem. administrasi,
+                pem.total, pem.kembalian, pem.terbayar, pem.status, pem.keterangan, pem.tanggal_bayar,
+                sum(count(total)) as grandtotal
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  
+                group by lp.id order by pd.waktu_daftar desc limit 0 , 10
+ERROR - 2019-04-14 05:42:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 05:42:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 10:42:31 --> Query error: Invalid use of group function - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar,
+                pem.pemeriksaan, pem.tindakan, pem.obat_obatan, pem.laboratorium, pem. administrasi,
+                pem.total, pem.kembalian, pem.terbayar, pem.status, pem.keterangan, pem.tanggal_bayar,
+                sum(count(total)) as grandtotal
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  
+                group by lp.id order by pd.waktu_daftar desc limit 0 , 10
+ERROR - 2019-04-14 05:43:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 05:43:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 10:47:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+ ' at line 7 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar,
+                pem.pemeriksaan, pem.tindakan, pem.obat_obatan, pem.laboratorium, pem. administrasi,
+                pem.total, pem.kembalian, pem.terbayar, pem.status, pem.keterangan, pem.tanggal_bayar,
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  
+                group by lp.id order by pd.waktu_daftar desc limit 0 , 10
+ERROR - 2019-04-14 05:47:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 05:47:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 10:47:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+ ' at line 7 - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, lp.cara_bayar, 
+        		pem.status as status_pembayaran, pem.tanggal_bayar,
+                pem.pemeriksaan, pem.tindakan, pem.obat_obatan, pem.laboratorium, pem. administrasi,
+                pem.total, pem.kembalian, pem.terbayar, pem.status, pem.keterangan, pem.tanggal_bayar,
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '' and '2019-04-14'  
+                group by lp.id order by pd.waktu_daftar desc limit 0 , 10
+ERROR - 2019-04-14 05:47:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 05:47:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-14 10:47:45 --> Severity: Notice --> Undefined variable: grandtotal C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 57
+ERROR - 2019-04-14 10:50:17 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 55
+ERROR - 2019-04-14 10:51:01 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 58
+ERROR - 2019-04-14 10:51:10 --> Severity: Notice --> Undefined variable: grandtotal C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 59
+ERROR - 2019-04-14 10:51:18 --> Severity: Notice --> Undefined variable: grandtotal C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 59
+ERROR - 2019-04-14 10:51:45 --> Severity: Notice --> Undefined variable: grandtotal C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 59
+ERROR - 2019-04-14 10:51:57 --> Severity: Notice --> Undefined variable: grandtotal C:\xampp\htdocs\klinik\application\views\export\pembayaran\export_data_pembayaran.php 59

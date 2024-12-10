@@ -1,0 +1,321 @@
+ERROR - 2019-04-12 00:11:07 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 47
+ERROR - 2019-04-12 00:11:26 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 47
+ERROR - 2019-04-12 00:12:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 00:12:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 00:14:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:09:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:09:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:12:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:23:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:30:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:39:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:39:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:41:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:41:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:47:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:48:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:48:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:48:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:48:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:49:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:49:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:54:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:56:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:56:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:56:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:57:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:58:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:58:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:59:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 04:59:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:00:15 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-12 10:01:24 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-12 05:01:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 05:15:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 05:16:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 05:16:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 05:22:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 05:23:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 05:26:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 05:27:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:30:32 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-12 10:31:34 --> Severity: Notice --> Undefined property: stdClass::$no_register C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-12 10:31:34 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 10:32:44 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 10:35:11 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 10:35:50 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 10:36:04 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 10:36:31 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 10:46:09 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 10:46:41 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 10:48:43 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 10:56:01 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 05:58:54 --> 404 Page Not Found: Billing/pembayaran
+ERROR - 2019-04-12 05:59:01 --> 404 Page Not Found: Billing/pembayaran
+ERROR - 2019-04-12 06:02:13 --> 404 Page Not Found: Billing/pembayaran
+ERROR - 2019-04-12 06:20:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 06:31:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 06:31:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 06:32:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 06:32:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 06:33:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 06:33:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 06:34:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 07:49:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 14:34:22 --> Query error: Unknown column 'p.waktu_daftar' in 'where clause' - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, 
+        		pem.status as status_pembayaran 
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(p.waktu_daftar) between '2019-04-12' and '2019-04-12'  
+                group by lp.id order by lm.waktu_daftar desc limit 0 , 10
+ERROR - 2019-04-12 09:34:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 14:34:25 --> Query error: Unknown column 'p.waktu_daftar' in 'where clause' - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, 
+        		pem.status as status_pembayaran 
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(p.waktu_daftar) between '2019-04-12' and '2019-04-12'  
+                group by lp.id order by lm.waktu_daftar desc limit 0 , 10
+ERROR - 2019-04-12 14:34:52 --> Query error: Unknown column 'lm.waktu_daftar' in 'order clause' - Invalid query: select pd.*, 
+        		p.nama, 
+        		lp.id as id_layanan_pendaftaran, 
+        		pem.status as status_pembayaran 
+        		from tb_pendaftaran pd 
+        		join tb_pasien p on (pd.id_pasien = p.id) 
+        		left join tb_layanan_pendaftaran lp on (lp.id_pendaftaran = pd.id) 
+        		left join tb_pembayaran pem on (lp.id = pem.id_layanan_pendaftaran)
+                where lp.id is not null  and date(pd.waktu_daftar) between '2019-04-12' and '2019-04-12'  
+                group by lp.id order by lm.waktu_daftar desc limit 0 , 10
+ERROR - 2019-04-12 09:35:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:49:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:50:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:50:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:51:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:51:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:51:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:51:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:51:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:52:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:52:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:53:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:53:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 09:53:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:13:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:14:08 --> 404 Page Not Found: Printing/nota_pembayaran
+ERROR - 2019-04-12 10:14:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 15:14:42 --> Severity: error --> Exception: Call to undefined method M_Keuangan::get_pembayaran_detail() C:\xampp\htdocs\klinik\application\controllers\Api\Keuangan.php 54
+ERROR - 2019-04-12 10:14:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 15:14:46 --> Severity: error --> Exception: Call to undefined method M_Keuangan::get_pembayaran_detail() C:\xampp\htdocs\klinik\application\controllers\Api\Keuangan.php 54
+ERROR - 2019-04-12 10:15:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 15:15:39 --> Severity: error --> Exception: Call to undefined method M_Keuangan::get_pembayaran_detail() C:\xampp\htdocs\klinik\application\controllers\Api\Keuangan.php 54
+ERROR - 2019-04-12 15:15:45 --> Severity: error --> Exception: Call to undefined method M_Keuangan::get_pembayaran_detail() C:\xampp\htdocs\klinik\application\controllers\Api\Keuangan.php 54
+ERROR - 2019-04-12 10:19:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:19:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:20:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:20:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:20:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:20:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:21:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:21:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:22:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:22:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:23:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:23:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:23:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:24:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:24:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:25:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:25:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:26:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:27:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:27:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:27:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:27:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:28:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:28:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:30:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 10:45:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 11:42:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 11:42:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 11:45:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 11:49:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 11:50:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 11:51:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 11:52:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 11:53:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 11:56:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:03:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:07:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:07:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:16:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:17:21 --> Severity: Notice --> Undefined variable: id_layanan_pendaftaran C:\xampp\htdocs\klinik\application\controllers\Api\Keuangan.php 76
+ERROR - 2019-04-12 17:17:21 --> Severity: error --> Exception: Call to undefined method M_Keuangan::update_data_pembayaran() C:\xampp\htdocs\klinik\application\controllers\Api\Keuangan.php 92
+ERROR - 2019-04-12 17:18:50 --> Severity: error --> Exception: Call to undefined method M_Keuangan::update_data_pembayaran() C:\xampp\htdocs\klinik\application\controllers\Api\Keuangan.php 92
+ERROR - 2019-04-12 12:20:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:23:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:23:36 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 69
+ERROR - 2019-04-12 17:24:03 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 69
+ERROR - 2019-04-12 17:24:03 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 70
+ERROR - 2019-04-12 12:24:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:26:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:26:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:26:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:28:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:28:44 --> 404 Page Not Found: Printing/pembayaran
+ERROR - 2019-04-12 12:29:03 --> 404 Page Not Found: Printing/pembayaran
+ERROR - 2019-04-12 12:30:35 --> 404 Page Not Found: Printing/pembayaran
+ERROR - 2019-04-12 12:30:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 12:37:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:37:36 --> Severity: Compile Error --> Cannot redeclare M_Keuangan::get_pembayaran_detail() C:\xampp\htdocs\klinik\application\models\M_Keuangan.php 75
+ERROR - 2019-04-12 12:38:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:38:34 --> Severity: Notice --> Undefined property: Printing::$M_Keuangan C:\xampp\htdocs\klinik\application\controllers\Printing.php 38
+ERROR - 2019-04-12 17:38:34 --> Severity: error --> Exception: Call to a member function get_pembayaran_kwitansi() on null C:\xampp\htdocs\klinik\application\controllers\Printing.php 38
+ERROR - 2019-04-12 17:38:49 --> Severity: Notice --> Undefined property: Printing::$M_Keuangan C:\xampp\htdocs\klinik\application\controllers\Printing.php 38
+ERROR - 2019-04-12 17:38:49 --> Severity: error --> Exception: Call to a member function get_pembayaran_kwitansi() on null C:\xampp\htdocs\klinik\application\controllers\Printing.php 38
+ERROR - 2019-04-12 12:39:32 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\klinik\application\controllers\Printing.php 7
+ERROR - 2019-04-12 12:39:42 --> Severity: error --> Exception: syntax error, unexpected 'euangan' (T_STRING) C:\xampp\htdocs\klinik\application\controllers\Printing.php 38
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 31
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'no_rm' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 31
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 34
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 34
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 37
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 37
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 40
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 40
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 43
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 43
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 58
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'waktu_periksa' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 58
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 59
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'anamnesa' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 59
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 60
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'diagnosa' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 60
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 61
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'tindakan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 61
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Undefined variable: pasien C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 62
+ERROR - 2019-04-12 17:39:52 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 62
+ERROR - 2019-04-12 17:41:25 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 17:44:47 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 17:53:19 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 62
+ERROR - 2019-04-12 17:53:41 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 63
+ERROR - 2019-04-12 17:54:06 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 63
+ERROR - 2019-04-12 17:54:35 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 17:55:30 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 67
+ERROR - 2019-04-12 17:56:24 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 17:56:30 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 17:57:00 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 67
+ERROR - 2019-04-12 17:57:28 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 17:57:57 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 17:58:06 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 17:58:33 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 17:59:11 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 17:59:20 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 17:59:32 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 18:04:02 --> Severity: Notice --> Undefined variable: pembayaran C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 41
+ERROR - 2019-04-12 18:04:02 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 41
+ERROR - 2019-04-12 13:04:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:04:09 --> Severity: Notice --> Undefined variable: pembayaran C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 41
+ERROR - 2019-04-12 18:04:09 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 41
+ERROR - 2019-04-12 18:04:44 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 41
+ERROR - 2019-04-12 18:05:48 --> Severity: Notice --> Trying to get property 'no_register' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 41
+ERROR - 2019-04-12 18:42:53 --> Severity: Notice --> Undefined property: stdClass::$Administrasi C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 57
+ERROR - 2019-04-12 18:42:53 --> Severity: Notice --> Undefined property: stdClass::$Total C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 58
+ERROR - 2019-04-12 14:08:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:08:27 --> Severity: Compile Error --> Cannot redeclare terbilang() (previously declared in C:\xampp\htdocs\klinik\application\helpers\functions_helper.php:765) C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 95
+ERROR - 2019-04-12 19:18:06 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 101
+ERROR - 2019-04-12 19:18:06 --> Severity: Notice --> Undefined variable:  C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 101
+ERROR - 2019-04-12 19:18:06 --> Severity: Notice --> Trying to get property 'session' of non-object C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 101
+ERROR - 2019-04-12 19:18:06 --> Severity: error --> Exception: Call to a member function userdata() on null C:\xampp\htdocs\klinik\application\views\printing\pembayaran\nota_pembayaran.php 101
+ERROR - 2019-04-12 14:32:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:36:18 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-12 14:53:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 14:53:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 15:21:02 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-12 15:24:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 15:25:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 15:30:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 15:37:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 15:44:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:03:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:05:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:14:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:15:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:16:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:20:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:21:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:21:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:23:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:34:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:35:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:37:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:38:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 21:38:15 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_sks`, CONSTRAINT `tb_sks_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_sks` (`id_layanan_pendaftaran`, `dari`, `sampai`, `hari`, `created_date`) VALUES ('', '12/04/2019', '12/04/2019', '3', '2019-04-12 21:38:15')
+ERROR - 2019-04-12 16:38:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:39:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 21:39:45 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_sks`, CONSTRAINT `tb_sks_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_sks` (`id_layanan_pendaftaran`, `dari`, `sampai`, `hari`, `created_date`) VALUES ('', '12/04/2019', '14/04/2019', '2', '2019-04-12 21:39:45')
+ERROR - 2019-04-12 16:41:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:44:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 21:44:38 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_sks`, CONSTRAINT `tb_sks_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_sks` (`id_layanan_pendaftaran`, `dari`, `sampai`, `hari`, `created_date`) VALUES ('', '12/04/2019', '16/04/2019', '5', '2019-04-12 21:44:38')
+ERROR - 2019-04-12 16:44:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:45:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 21:45:13 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_sks`, CONSTRAINT `tb_sks_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_sks` (`id_layanan_pendaftaran`, `dari`, `sampai`, `hari`, `created_date`) VALUES ('', '12/04/2019', '12/04/2019', '1', '2019-04-12 21:45:13')
+ERROR - 2019-04-12 16:45:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:46:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:48:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:48:45 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\klinik\application\controllers\Api\Admission.php 213
+ERROR - 2019-04-12 16:48:57 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\klinik\application\controllers\Api\Admission.php 213
+ERROR - 2019-04-12 16:49:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:49:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 16:51:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 21:51:53 --> Severity: Notice --> Undefined variable: status C:\xampp\htdocs\klinik\application\controllers\Api\Admission.php 221
+ERROR - 2019-04-12 16:53:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:08:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 22:08:23 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\klinik\application\models\M_admission.php 240
+ERROR - 2019-04-12 22:08:23 --> Query error: Unknown column 'id_layanan_pendaftaran' in 'field list' - Invalid query: UPDATE `tb_layanan_pendaftaran` SET `id_layanan_pendaftaran` = '6', `id_sks` = 9
+WHERE `id` IS NULL
+ERROR - 2019-04-12 17:08:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:13:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:14:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:15:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:37:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 22:37:39 --> Severity: error --> Exception: Call to undefined method M_Keuangan::get_sks_pasien() C:\xampp\htdocs\klinik\application\controllers\Printing.php 38
+ERROR - 2019-04-12 17:37:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:39:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:41:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 17:44:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:35:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:44:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:46:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:46:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:47:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:47:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:47:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:47:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 18:49:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 23:56:05 --> Severity: Notice --> Undefined variable: layanan C:\xampp\htdocs\klinik\application\views\keuangan\keuangan\pembayaran.php 16
+ERROR - 2019-04-12 23:56:41 --> Severity: Notice --> Undefined variable: status_pembayaran C:\xampp\htdocs\klinik\application\views\keuangan\keuangan\pembayaran.php 16
+ERROR - 2019-04-12 23:59:08 --> Severity: Notice --> Undefined property: Keuangan::$M_keuangan C:\xampp\htdocs\klinik\application\controllers\Keuangan.php 30
+ERROR - 2019-04-12 23:59:08 --> Severity: error --> Exception: Call to a member function get_status_pembayaran() on null C:\xampp\htdocs\klinik\application\controllers\Keuangan.php 30
+ERROR - 2019-04-12 18:59:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 23:59:14 --> Severity: Notice --> Undefined property: Keuangan::$M_keuangan C:\xampp\htdocs\klinik\application\controllers\Keuangan.php 30
+ERROR - 2019-04-12 23:59:14 --> Severity: error --> Exception: Call to a member function get_status_pembayaran() on null C:\xampp\htdocs\klinik\application\controllers\Keuangan.php 30
+ERROR - 2019-04-12 18:59:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:02:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:02:13 --> Severity: error --> Exception: syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' C:\xampp\htdocs\klinik\application\controllers\Api\Keuangan.php 34
+ERROR - 2019-04-12 19:02:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:02:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:02:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:03:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:05:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:06:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:06:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:13:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:19:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-12 19:20:03 --> 404 Page Not Found: Assets/plugins

@@ -1,0 +1,120 @@
+.tight { margin: 2px; }
+
+.bwizard {
+  position: relative; }
+  .bwizard .well {
+    margin: 3px 0; }
+  .bwizard .pager {
+    margin: 10px 0 0 0; }
+    .bwizard .pager li a {
+      -webkit-border-radius: 2px;
+      -moz-border-radius: 2px;
+      border-radius: 2px;
+      color: #22BAA0; }
+    .bwizard .pager li.disabled a {
+      color: #999999; }
+
+.bwizard-steps {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  background: white; }
+  .bwizard-steps li {
+    display: inline-block;
+    position: relative;
+    margin-right: 5px;
+    line-height: 18px;
+    list-style: none;
+    padding: 12px 17px 10px 30px;
+    background: #e6e6e6;
+    zoom: 1;
+    *display: inline;
+    *padding-left: 17px; }
+    .bwizard-steps li:first-child {
+      -webkit-border-radius: 4px 0 0 4px;
+      -moz-border-radius: 4px 0 0 4px;
+      border-radius: 4px 0 0 4px;
+      padding-left: 12px; }
+      .bwizard-steps li:first-child:before {
+        border: none; }
+    .bwizard-steps li:last-child {
+      -webkit-border-radius: 0 4px 4px 0;
+      -moz-border-radius: 0 4px 4px 0;
+      border-radius: 0 4px 4px 0;
+      margin-right: 0; }
+      .bwizard-steps li:last-child:after {
+        border: none; }
+    .bwizard-steps li:before {
+      position: absolute;
+      left: 0;
+      top: 0;
+      height: 0;
+      width: 0;
+      border-bottom: 20px inset transparent;
+      border-left: 20px solid white;
+      border-top: 20px inset transparent;
+      content: ""; }
+    .bwizard-steps li:after {
+      position: absolute;
+      right: -20px;
+      top: 0;
+      height: 0;
+      width: 0;
+      border-bottom: 20px inset transparent;
+      border-left: 20px solid #e6e6e6;
+      border-top: 20px inset transparent;
+      content: "";
+      z-index: 2; }
+    .bwizard-steps li .label-default {
+      margin: 0 5px 0 0;
+      padding: 1px 5px 2px;
+      position: relative;
+      top: -1px;
+      background: #b3b3b3;
+      -webkit-border-radius: 2px;
+      -moz-border-radius: 2px;
+      border-radius: 2px;
+      color: white; }
+    .bwizard-steps li .label-danger {
+      background: #006151; }
+  .bwizard-steps .active {
+    color: white;
+    background: #22BAA0; }
+    .bwizard-steps .active:after {
+      border-left-color: #22BAA0; }
+  .bwizard-steps a {
+    color: #4d4d4d; }
+  .bwizard-steps .active a {
+    color: white;
+    cursor: default; }
+  .bwizard-steps a:hover {
+    text-decoration: none; }
+  .bwizard-steps.clickable li:not(.active) {
+    cursor: pointer; }
+  .bwizard-steps.clickable li:hover:not(.active) {
+    background: #cccccc; }
+    .bwizard-steps.clickable li:hover:not(.active) a {
+      color: #4d4d4d; }
+    .bwizard-steps.clickable li:hover:not(.active):after {
+      border-left-color: #cccccc; }
+
+.table{
+  border: 1px solid #e2e2e2;
+}
+
+@-webkit-keyframes blinker {  
+  from { opacity: 1.0; }
+  to { opacity: 0.0; }
+}
+.blinker {
+  -webkit-animation-name: blinker;  
+  -webkit-animation-iteration-count: infinite;  
+  -webkit-animation-timing-function: cubic-bezier(1.0,0,0,1.0);
+  -webkit-animation-duration: 1s; 
+}
+
+#pasien_lama_chart
+{
+    max-width: none;
+    height: 400px;
+}

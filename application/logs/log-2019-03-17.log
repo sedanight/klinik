@@ -1,0 +1,88 @@
+ERROR - 2019-03-17 11:59:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 13:20:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 13:21:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 13:37:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 13:39:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 14:57:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 14:58:44 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 92
+ERROR - 2019-03-17 14:59:07 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 92
+ERROR - 2019-03-17 14:59:24 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 96
+ERROR - 2019-03-17 14:59:24 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 96
+ERROR - 2019-03-17 14:59:32 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 96
+ERROR - 2019-03-17 14:59:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 14:59:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 15:16:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 15:19:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 15:20:18 --> Severity: error --> Exception: syntax error, unexpected ''nama_kantor'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 71
+ERROR - 2019-03-17 15:20:24 --> Severity: error --> Exception: syntax error, unexpected ''nama_kantor'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 71
+ERROR - 2019-03-17 15:20:48 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 101
+ERROR - 2019-03-17 15:21:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 21:21:24 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 44
+ERROR - 2019-03-17 21:21:24 --> Severity: Notice --> Undefined property: Admission::$M_admission C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 63
+ERROR - 2019-03-17 21:21:24 --> Severity: error --> Exception: Call to a member function insert_data_siswa_mi() on null C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 63
+ERROR - 2019-03-17 21:22:32 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 44
+ERROR - 2019-03-17 21:22:32 --> Severity: Notice --> Undefined property: Admission::$M_admission C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 63
+ERROR - 2019-03-17 21:22:32 --> Severity: error --> Exception: Call to a member function insert_data_siswa_mi() on null C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 63
+ERROR - 2019-03-17 15:22:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 21:23:10 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 44
+ERROR - 2019-03-17 21:23:10 --> Severity: Notice --> Undefined property: Admission::$M_admission C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 63
+ERROR - 2019-03-17 21:23:10 --> Severity: error --> Exception: Call to a member function insert_data_siswa_mi() on null C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 63
+ERROR - 2019-03-17 15:24:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 21:24:38 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 44
+ERROR - 2019-03-17 21:24:50 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 44
+ERROR - 2019-03-17 21:26:14 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 44
+ERROR - 2019-03-17 21:26:19 --> Severity: Notice --> Undefined variable: tanggal_lahir C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 44
+ERROR - 2019-03-17 15:32:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 15:33:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 21:33:44 --> Severity: error --> Exception: syntax error, unexpected '}' C:\xampp\htdocs\sisdemik\application\models\M_admission.php 21
+ERROR - 2019-03-17 21:33:54 --> Severity: error --> Exception: syntax error, unexpected '}' C:\xampp\htdocs\sisdemik\application\models\M_admission.php 21
+ERROR - 2019-03-17 15:34:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 21:35:45 --> Severity: Notice --> Undefined property: Admission::$M_admission C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 58
+ERROR - 2019-03-17 21:35:45 --> Severity: error --> Exception: Call to a member function insert_data_siswa_mi() on null C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 58
+ERROR - 2019-03-17 15:36:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 15:38:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 15:39:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 15:48:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 15:50:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 21:52:57 --> Query error: Unknown column 'tanggal_daftar' in 'field list' - Invalid query: INSERT INTO `tb_detail_siswa_mi` (`tanggal_daftar`, `nama`, `nama_panggilan`, `kelamin`, `tempat_lahir`, `tanggal_lahir`, `agama`, `kewarganegaraan`, `status_keluarga`, `anak_ke`, `jumlah_saudara`, `kandung`, `tiri`, `angkat`, `tinggal_dengan`, `alamat`, `jarak_sekolah`, `kesekolah_dengan`, `berat_badan`, `tinggi_badan`, `penyakit_diderita`) VALUES ('2019-03-17', 'Faiz Muhammad Syam', 'faizmsyam', 'L', 'Tangerang', '1994-10-07', 'Islam', 'WNI', 'Anak Kandung', '1', '2', '2', '', '', 'Orang Tua', 'Jl. Pembangunan 3 RT. 05/05 ', '1', 'Jalan Kaki', '50', '166', '')
+ERROR - 2019-03-17 15:55:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 21:55:36 --> Query error: Column 'pendidikan_ayah' cannot be null - Invalid query: INSERT INTO `tb_detail_siswa_mi` (`id_siswa_mi`, `nama_ayah`, `tempat_lahir_ayah`, `tanggal_lahir_ayah`, `pendidikan_ayah`, `nama_kantor`, `no_telp`, `nama_ibu`, `tempat_lahir_ibu`, `tanggal_lahir_ibu`, `pendidikan_ibu`, `pekerjaan_ibu`, `alamat_orangtua`, `nama_wali`, `tempat_lahir_wali`, `tanggal_lahir_wali`, `id_pendidikan_wali`, `id_pekerjaan_wali`, `asal_tk`, `nama_tk`, `tanggal_sttb`, `no_sttb`, `nama_sekolah_asal`, `dari_tingkat`, `diterima_tanggal`, `create_date`) VALUES (6, 'asdasd', 'asd', '', NULL, NULL, '', 'asd', 'asd', '', NULL, NULL, '', '', '', '', NULL, NULL, '', '', '', '', '', '', '', '2019-03-17 21:55:36')
+ERROR - 2019-03-17 15:58:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 22:00:58 --> Query error: Column 'pendidikan_ayah' cannot be null - Invalid query: INSERT INTO `tb_detail_siswa_mi` (`id_siswa_mi`, `nama_ayah`, `tempat_lahir_ayah`, `tanggal_lahir_ayah`, `pendidikan_ayah`, `nama_kantor`, `no_telp`, `nama_ibu`, `tempat_lahir_ibu`, `tanggal_lahir_ibu`, `pendidikan_ibu`, `pekerjaan_ibu`, `alamat_orangtua`, `nama_wali`, `tempat_lahir_wali`, `tanggal_lahir_wali`, `id_pendidikan_wali`, `id_pekerjaan_wali`, `asal_tk`, `nama_tk`, `tanggal_sttb`, `no_sttb`, `nama_sekolah_asal`, `dari_tingkat`, `diterima_tanggal`, `create_date`) VALUES (7, 'sdfs', 'sdfsd', '', NULL, NULL, '', 'sdf', 'sdf', '', NULL, NULL, '', '', '', '', NULL, NULL, '', '', '', '', '', '', '', '2019-03-17 22:00:58')
+ERROR - 2019-03-17 16:03:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 16:09:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 22:09:35 --> Severity: Notice --> Undefined variable: id_siswa_mi C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 61
+ERROR - 2019-03-17 22:09:35 --> Query error: Column 'id_siswa_mi' cannot be null - Invalid query: INSERT INTO `tb_detail_siswa_mi` (`id_siswa_mi`, `nama_ayah`, `tempat_lahir_ayah`, `tanggal_lahir_ayah`, `pendidikan_ayah`, `nama_kantor`, `no_telp`, `nama_ibu`, `tempat_lahir_ibu`, `tanggal_lahir_ibu`, `pendidikan_ibu`, `pekerjaan_ibu`, `alamat_orangtua`, `nama_wali`, `tempat_lahir_wali`, `tanggal_lahir_wali`, `id_pendidikan_wali`, `id_pekerjaan_wali`, `asal_tk`, `nama_tk`, `tanggal_sttb`, `no_sttb`, `nama_sekolah_asal`, `dari_tingkat`, `diterima_tanggal`, `create_date`) VALUES (NULL, 'asdsd', 'asda', '', NULL, NULL, '', 'asda', 'asdasd', '', NULL, NULL, '', '', '', '', NULL, NULL, '', '', '', '', '', '', '', '2019-03-17 22:09:35')
+ERROR - 2019-03-17 16:12:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 22:13:15 --> Severity: Notice --> Undefined variable: id_siswa_mi C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 61
+ERROR - 2019-03-17 22:13:15 --> Query error: Column 'id_siswa_mi' cannot be null - Invalid query: INSERT INTO `tb_detail_siswa_mi` (`id_siswa_mi`, `nama_ayah`, `tempat_lahir_ayah`, `tanggal_lahir_ayah`, `pendidikan_ayah`, `nama_kantor`, `no_telp`, `nama_ibu`, `tempat_lahir_ibu`, `tanggal_lahir_ibu`, `pendidikan_ibu`, `pekerjaan_ibu`, `alamat_orangtua`, `nama_wali`, `tempat_lahir_wali`, `tanggal_lahir_wali`, `id_pendidikan_wali`, `id_pekerjaan_wali`, `asal_tk`, `nama_tk`, `tanggal_sttb`, `no_sttb`, `nama_sekolah_asal`, `dari_tingkat`, `diterima_tanggal`, `create_date`) VALUES (NULL, 'asd', 'asd', '', NULL, NULL, '', 'asd', 'asd', '', NULL, NULL, '', '', '', '', NULL, NULL, '', '', '', '', '', '', '', '2019-03-17 22:13:15')
+ERROR - 2019-03-17 16:13:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 22:14:13 --> Query error: Column 'pendidikan_ayah' cannot be null - Invalid query: INSERT INTO `tb_detail_siswa_mi` (`nama_ayah`, `tempat_lahir_ayah`, `tanggal_lahir_ayah`, `pendidikan_ayah`, `nama_kantor`, `no_telp`, `nama_ibu`, `tempat_lahir_ibu`, `tanggal_lahir_ibu`, `pendidikan_ibu`, `pekerjaan_ibu`, `alamat_orangtua`, `nama_wali`, `tempat_lahir_wali`, `tanggal_lahir_wali`, `id_pendidikan_wali`, `id_pekerjaan_wali`, `asal_tk`, `nama_tk`, `tanggal_sttb`, `no_sttb`, `nama_sekolah_asal`, `dari_tingkat`, `diterima_tanggal`, `create_date`) VALUES ('asd', 'asd', '', NULL, NULL, '', 'asd', 'asd', '', NULL, NULL, '', '', '', '', NULL, NULL, '', '', '', '', '', '', '', '2019-03-17 22:14:13')
+ERROR - 2019-03-17 16:24:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 22:25:18 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`sisdemik`.`tb_detail_siswa_mi`, CONSTRAINT `tb_detail_siswa_mi_ibfk_1` FOREIGN KEY (`id_siswa_mi`) REFERENCES `tb_siswa_mi` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_detail_siswa_mi` (`nama_ayah`, `tempat_lahir_ayah`, `tanggal_lahir_ayah`, `pendidikan_ayah`, `nama_kantor`, `no_telp`, `nama_ibu`, `tempat_lahir_ibu`, `tanggal_lahir_ibu`, `pendidikan_ibu`, `pekerjaan_ibu`, `alamat_orangtua`, `nama_wali`, `tempat_lahir_wali`, `tanggal_lahir_wali`, `id_pendidikan_wali`, `id_pekerjaan_wali`, `asal_tk`, `nama_tk`, `tanggal_sttb`, `no_sttb`, `nama_sekolah_asal`, `dari_tingkat`, `diterima_tanggal`, `create_date`) VALUES ('asda', 'asd', '2019-03-12', '9', '3', '32423', 'asd', 'asdasd', '2019-03-10', '9', '6', 'wrwerwe', 'werwe', 'wer', '2019-03-12', '7', '8', '', '', '', '34343', 'wer', '', '2019-03-04', '2019-03-17 22:25:18')
+ERROR - 2019-03-17 16:29:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 16:45:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 22:48:03 --> Severity: Notice --> Undefined variable: id_siswa C:\xampp\htdocs\sisdemik\application\controllers\Api\Admission.php 93
+ERROR - 2019-03-17 22:48:03 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\sisdemik\application\models\M_admission.php 33
+ERROR - 2019-03-17 16:49:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 22:50:10 --> Query error: Column 'nama_kantor' cannot be null - Invalid query: INSERT INTO `tb_detail_siswa_mi` (`id_siswa_mi`, `nama_ayah`, `tempat_lahir_ayah`, `tanggal_lahir_ayah`, `pendidikan_ayah`, `nama_kantor`, `no_telp`, `nama_ibu`, `tempat_lahir_ibu`, `tanggal_lahir_ibu`, `pendidikan_ibu`, `pekerjaan_ibu`, `alamat_orangtua`, `nama_wali`, `tempat_lahir_wali`, `tanggal_lahir_wali`, `id_pendidikan_wali`, `id_pekerjaan_wali`, `asal_tk`, `nama_tk`, `tanggal_sttb`, `no_sttb`, `nama_sekolah_asal`, `dari_tingkat`, `diterima_tanggal`, `create_date`) VALUES (10, 'Syamsuri', 'Tangerang', '', NULL, NULL, '', 'Siti Badriah', 'Tangerang', '', NULL, NULL, '', '', '', '', NULL, NULL, '', '', '', '', '', '', '', '2019-03-17 22:50:10')
+ERROR - 2019-03-17 16:51:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 22:51:42 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\sisdemik\application\models\M_admission.php 33
+ERROR - 2019-03-17 16:52:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 16:59:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 17:05:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 17:06:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 17:22:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 17:22:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 17:23:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 17:26:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 17:26:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 17:28:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 17:29:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-03-17 23:31:29 --> Query error: Unknown column 'lm.id' in 'where clause' - Invalid query: select p.*, s.nama, s.kelamin, s.alamat, us.username 
+        		from tb_pendaftaran_mi p
+				join tb_siswa_mi s on p.id_siswa_mi = s.id 
+				join tb_users us on us.id = p.id_users 
+                where p.id is not null  and lm.id = 'true'  
+                group by p.id order by p.waktu_daftar desc limit 0 , 10
+ERROR - 2019-03-17 17:32:54 --> 404 Page Not Found: Assets/plugins

@@ -1,0 +1,2 @@
+ERROR - 2019-06-11 13:43:27 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-11 18:44:43 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66

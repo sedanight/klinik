@@ -1,0 +1,6 @@
+ERROR - 2019-03-27 02:56:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\sisdemik\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2019-03-27 02:56:06 --> Unable to connect to the database
+ERROR - 2019-03-27 02:56:27 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\sisdemik\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2019-03-27 02:56:27 --> Unable to connect to the database

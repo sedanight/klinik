@@ -1,0 +1,907 @@
+ERROR - 2019-04-11 00:11:47 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:11:47', 'TESTING', 'APA AJA', 'COBAIN')
+ERROR - 2019-04-11 00:36:53 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:36:53', 'TESSS', 'FFFFF', 'GGGGG')
+ERROR - 2019-04-11 00:38:23 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:38:23', 'TESSS', 'FFFFF', 'GGGGG')
+ERROR - 2019-04-11 00:40:03 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:40:03', 'TESSS', 'FFFFF', 'GGGGG')
+ERROR - 2019-04-11 00:40:16 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:40:16', 'asdsad', 'asdasdasdas', 'asdasdasdasdasd')
+ERROR - 2019-04-11 00:44:03 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:44:03', 'asdasdasd', 'asdas', 'asda')
+ERROR - 2019-04-11 00:44:09 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:44:09', 'asdasdasd', 'asdas', 'asda')
+ERROR - 2019-04-11 00:46:22 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:46:22', 'asdd', 'asdasdasd', 'asdadasd')
+ERROR - 2019-04-11 00:46:40 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:46:40', '', '', '')
+ERROR - 2019-04-11 00:47:03 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_visitasi`, CONSTRAINT `tb_visitasi_ibfk_1` FOREIGN KEY (`id_layanan_pendaftaran`) REFERENCES `tb_layanan_pendaftaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `tb_visitasi` (`id_layanan_pendaftaran`, `waktu`, `anamnesa`, `diagnosa`, `tindakan`) VALUES ('', '2019-04-11 00:47:03', '', '', '')
+ERROR - 2019-04-11 01:12:34 --> Severity: error --> Exception: Call to undefined method M_admission::get_formulir_mi_detail() C:\xampp\htdocs\klinik\application\controllers\Printing.php 14
+ERROR - 2019-04-11 09:25:08 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_pasien`, CONSTRAINT `tb_pasien_ibfk_5` FOREIGN KEY (`tempat_lahir`) REFERENCES `tb_kabupaten_kota` (`id`) ON UPDATE CASCADE) - Invalid query: UPDATE `tb_pasien` SET `id` = '000002', `tanggal_daftar` = '2019-04-11', `nama` = 'PASIEN COBA NY', `kelamin` = 'P', `alamat` = 'TESTING', `id_kelurahan` = '27547', `tempat_lahir` = 'KABUPATEN ACEH BESAR', `tanggal_lahir` = '2019-04-01', `agama` = 'ISLAM', `gol_darah` = 'A Rh-', `id_pendidikan` = '3', `id_pekerjaan` = '4', `status_pernikahan` = 'Menikah', `telp` = '0123234353', `jenis_identitas` = NULL, `no_identitas` = '342423442342', `nama_ayah` = 'ASD', `nama_ibu` = 'DFG'
+WHERE `id` = '000002'
+ERROR - 2019-04-11 09:30:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_pegawai p on p.id = lp.id_dokter
+                        where lp.id_pe' at line 3 - Invalid query: select lp.*, p.nama as dokter
+                        from tb_layanan_pendaftaran lp
+                        join from tb_pegawai p on p.id = lp.id_dokter
+                        where lp.id_pendaftaran = '8' and lp.id = '8'
+ERROR - 2019-04-11 04:30:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 09:30:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_pegawai p on p.id = lp.id_dokter
+                        where lp.id_pe' at line 3 - Invalid query: select lp.*, p.nama as dokter
+                        from tb_layanan_pendaftaran lp
+                        join from tb_pegawai p on p.id = lp.id_dokter
+                        where lp.id_pendaftaran = '8' and lp.id = '8'
+ERROR - 2019-04-11 04:32:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 04:32:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 04:32:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 04:32:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 04:36:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 09:36:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        left join tb_pegawai p o' at line 3 - Invalid query: select lp.*,
+                        IFNULL(p.nama, '') as dokter,
+                        from tb_layanan_pendaftaran lp
+                        left join tb_pegawai p on (p.id = lp.id_dokter)
+                        where lp.id_pendaftaran = '7' and lp.id = '7'
+ERROR - 2019-04-11 09:36:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from tb_layanan_pendaftaran lp
+                        left join tb_pegawai p o' at line 3 - Invalid query: select lp.*,
+                        IFNULL(p.nama, '') as dokter,
+                        from tb_layanan_pendaftaran lp
+                        left join tb_pegawai p on (p.id = lp.id_dokter)
+                        where lp.id_pendaftaran = '8' and lp.id = '8'
+ERROR - 2019-04-11 04:36:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 04:38:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 04:41:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 04:45:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 04:45:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 04:53:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:20:41 --> Severity: Notice --> Undefined property: stdClass::$layanan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\no_antri.php 16
+ERROR - 2019-04-11 05:20:41 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 05:21:23 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 05:23:09 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 05:23:37 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 05:23:49 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 05:37:07 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 05:38:12 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 10:38:28 --> Severity: error --> Exception: Call to undefined method M_admission::get_formulir_mi_detail() C:\xampp\htdocs\klinik\application\controllers\Printing.php 14
+ERROR - 2019-04-11 10:40:29 --> Severity: error --> Exception: Call to undefined method M_admission::get_hasil_detail() C:\xampp\htdocs\klinik\application\controllers\Printing.php 14
+ERROR - 2019-04-11 05:40:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:41:02 --> Severity: error --> Exception: Call to undefined method M_admission::get_hasil_detail() C:\xampp\htdocs\klinik\application\controllers\Printing.php 14
+ERROR - 2019-04-11 10:41:51 --> Severity: error --> Exception: Call to undefined method M_admission::get_hasil_detail() C:\xampp\htdocs\klinik\application\controllers\Printing.php 14
+ERROR - 2019-04-11 10:41:57 --> Severity: error --> Exception: Call to undefined method M_admission::get_hasil_detail() C:\xampp\htdocs\klinik\application\controllers\Printing.php 14
+ERROR - 2019-04-11 05:43:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:43:15 --> Query error: Table 'db_klinik.tb_pendaftaran_mi' doesn't exist - Invalid query: select pd.*, sm.*, dsm.*,
+                IFNULL(kk.nama, '') as tempat_lahir,
+                IFNULL(tla.nama, '') as tempat_lahir_ayah,
+                IFNULL(tli.nama, '') as tempat_lahir_ibu,
+                IFNULL(tlw.nama, '') as tempat_lahir_wali,
+                IFNULL(pend.nama, '') as pendidikan_ayah,
+                IFNULL(pen.nama, '') as pendidikan_ibu,
+                IFNULL(pkrj.nama, '') as pekerjaan_ibu,
+                IFNULL(pdk.nama, '') as pendidikan_wali,
+                IFNULL(pker.nama, '') as pekerjaan_wali
+                from tb_pendaftaran_mi pd
+                join tb_siswa_mi sm on (pd.id_siswa_mi = sm.id)
+                join tb_detail_siswa_mi dsm on (dsm.id_siswa_mi = sm.id)
+                left join tb_kabupaten_kota kk on (sm.tempat_lahir = kk.id)
+                left join tb_kabupaten_kota tla on (dsm.tempat_lahir_ayah = tla.id)
+                left join tb_kabupaten_kota tli on (dsm.tempat_lahir_ibu = tli.id)
+                left join tb_kabupaten_kota tlw on (dsm.tempat_lahir_wali = tlw.id)
+                left join tb_pendidikan pend on (dsm.id_pendidikan_ayah = pend.id)
+                left join tb_pendidikan pen on (dsm.id_pendidikan_ibu = pen.id)
+                left join tb_pekerjaan pkrj on (dsm.id_pekerjaan_ibu = pkrj.id)
+                left join tb_pendidikan pdk on (dsm.id_pendidikan_wali = pdk.id)
+                left join tb_pekerjaan pker on (dsm.id_pekerjaan_wali = pker.id)
+                where pd.id = '8'
+ERROR - 2019-04-11 05:56:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 05:58:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: clinic C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 21
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'logo' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 21
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: clinic C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 22
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 22
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: clinic C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 24
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 24
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: clinic C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 25
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'telp' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 25
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: clinic C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 25
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'fax' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 25
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: clinic C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 25
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 25
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'dokter' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:58:45 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:58:45 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined property: stdClass::$fax C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 25
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 25
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'dokter' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:59:14 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:59:14 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 05:59:15 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'dokter' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:59:54 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 10:59:54 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 05:59:54 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 06:01:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'dokter' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:01:23 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:01:23 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 06:01:23 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'dokter' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:01:53 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:01:53 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 06:01:53 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'dokter' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:02:07 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:02:07 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 06:02:07 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'dokter' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:02:18 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:02:18 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 06:02:18 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'dokter' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:03:29 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:03:29 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 06:03:29 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'dokter' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:03:34 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:03:34 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 06:03:34 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'cara_bayar' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'jenis' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 40
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'waktu_hasil' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'kelamin' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 43
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:04:18 --> Severity: Notice --> Trying to get property 'tanggal_lahir' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 46
+ERROR - 2019-04-11 11:04:18 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\klinik\application\helpers\functions_helper.php 334
+ERROR - 2019-04-11 06:04:18 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Trying to get property 'detail' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:04:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 11:04:54 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 06:04:54 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 37
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Trying to get property 'detail' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:04:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 11:04:56 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 06:04:56 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Undefined variable: pendaftaran C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Trying to get property 'alamat' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 34
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 48
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Trying to get property 'detail' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 48
+ERROR - 2019-04-11 11:05:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 48
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 114
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 114
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 122
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 122
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 123
+ERROR - 2019-04-11 11:05:38 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 123
+ERROR - 2019-04-11 06:05:38 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:06:26 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:06:26 --> Severity: Notice --> Trying to get property 'detail' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:06:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:06:26 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:06:26 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:06:26 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:06:26 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:06:26 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 11:06:26 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 06:06:26 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:07:00 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:07:00 --> Severity: Notice --> Trying to get property 'detail' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:07:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:07:00 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:07:00 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:07:00 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:07:00 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:07:00 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 11:07:00 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 06:07:00 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:07:05 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:07:05 --> Severity: Notice --> Trying to get property 'detail' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:07:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:07:05 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:07:05 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:07:05 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:07:05 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:07:05 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 11:07:05 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 06:07:05 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:07:07 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:07:07 --> Severity: Notice --> Trying to get property 'detail' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:07:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:07:07 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:07:07 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:07:07 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:07:07 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:07:07 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 11:07:07 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 06:07:07 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:08:00 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:08:00 --> Severity: Notice --> Trying to get property 'detail' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 51
+ERROR - 2019-04-11 11:08:00 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:08:00 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 117
+ERROR - 2019-04-11 11:08:00 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:08:00 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 125
+ERROR - 2019-04-11 11:08:00 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 11:08:00 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 126
+ERROR - 2019-04-11 06:08:00 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined property: stdClass::$waktu_periksa C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 52
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 55
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 60
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined property: stdClass::$abnormal C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 64
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined property: stdClass::$satuan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined property: stdClass::$nilai_normal C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 67
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 68
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 72
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 72
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 80
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 80
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 81
+ERROR - 2019-04-11 11:11:24 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 81
+ERROR - 2019-04-11 06:11:24 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 55
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 60
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined property: stdClass::$abnormal C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 64
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined property: stdClass::$satuan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined property: stdClass::$nilai_normal C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 67
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 68
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 72
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 72
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 80
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 80
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 81
+ERROR - 2019-04-11 11:12:09 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 81
+ERROR - 2019-04-11 06:12:09 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 55
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 60
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined property: stdClass::$abnormal C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 64
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined property: stdClass::$satuan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined property: stdClass::$nilai_normal C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 67
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 68
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 72
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 72
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 80
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 80
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 81
+ERROR - 2019-04-11 11:12:32 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 81
+ERROR - 2019-04-11 06:12:32 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 55
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined property: stdClass::$hasil C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 60
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined property: stdClass::$abnormal C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 64
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined property: stdClass::$satuan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 66
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined property: stdClass::$nilai_normal C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 67
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 68
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 72
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 72
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 80
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 80
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 81
+ERROR - 2019-04-11 11:12:45 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 81
+ERROR - 2019-04-11 06:12:45 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:13:31 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:13:31 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 60
+ERROR - 2019-04-11 11:13:31 --> Severity: Notice --> Trying to get property 'catatan' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 60
+ERROR - 2019-04-11 11:13:31 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 68
+ERROR - 2019-04-11 11:13:31 --> Severity: Notice --> Trying to get property 'dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 68
+ERROR - 2019-04-11 11:13:31 --> Severity: Notice --> Undefined variable: laboratorium C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 69
+ERROR - 2019-04-11 11:13:31 --> Severity: Notice --> Trying to get property 'nip_dokter_pjwb' of non-object C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 69
+ERROR - 2019-04-11 06:13:31 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:14:26 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:14:26 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:15:34 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:15:34 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:15:35 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:15:35 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:15:41 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:15:41 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:16:34 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:16:34 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:17:25 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:17:26 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:17:45 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:17:45 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:18:03 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:18:03 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:18:57 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:18:57 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:20:07 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:20:07 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:20:40 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:20:41 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:21:31 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:21:32 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:23:31 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:23:32 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 06:29:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:30:35 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 106
+ERROR - 2019-04-11 11:30:35 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 107
+ERROR - 2019-04-11 06:30:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 06:30:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:30:40 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 106
+ERROR - 2019-04-11 11:30:40 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 107
+ERROR - 2019-04-11 06:31:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:31:11 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 106
+ERROR - 2019-04-11 11:31:11 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 107
+ERROR - 2019-04-11 06:31:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:31:45 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 106
+ERROR - 2019-04-11 11:31:45 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 107
+ERROR - 2019-04-11 11:31:48 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 106
+ERROR - 2019-04-11 11:31:48 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 107
+ERROR - 2019-04-11 06:33:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:33:13 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 106
+ERROR - 2019-04-11 11:33:13 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 107
+ERROR - 2019-04-11 11:33:21 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 106
+ERROR - 2019-04-11 11:33:21 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 107
+ERROR - 2019-04-11 06:34:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:34:06 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 106
+ERROR - 2019-04-11 11:34:07 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\klinik\application\models\M_admission.php 107
+ERROR - 2019-04-11 06:34:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 06:35:15 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 11:35:34 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:35:34 --> 404 Page Not Found: Assets/img
+ERROR - 2019-04-11 11:36:28 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:50:09 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:50:33 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:50:52 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:51:28 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:51:52 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:52:10 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 06:53:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:55:41 --> Severity: Notice --> Undefined variable: dokter C:\xampp\htdocs\klinik\application\views\masterdata\pegawai\pegawai.php 113
+ERROR - 2019-04-11 12:01:49 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 07:07:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 07:09:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 07:09:08 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 12:09:53 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 12:10:25 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 12:10:56 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 07:17:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 07:17:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 07:19:42 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 07:53:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 07:54:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:03:39 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 08:04:05 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 08:04:21 --> 404 Page Not Found: Export/export_data_pendaftaran
+ERROR - 2019-04-11 08:05:46 --> 404 Page Not Found: Export/export_data_pendaftaran
+ERROR - 2019-04-11 08:05:53 --> 404 Page Not Found: Export/export_data_pendaftaran
+ERROR - 2019-04-11 13:07:18 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-11 13:07:18 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-11 13:07:33 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-11 13:07:33 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-11 13:07:37 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-11 13:07:37 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-11 13:11:44 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-11 13:11:44 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-11 13:11:44 --> Severity: Notice --> Undefined variable: clinik C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 16
+ERROR - 2019-04-11 13:11:44 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 16
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 95
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined index: no_rm C:\xampp\htdocs\klinik\application\models\M_admission.php 96
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 46
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 47
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 48
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 46
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 47
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 48
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 46
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined property: stdClass::$diagnosa C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 47
+ERROR - 2019-04-11 13:17:12 --> Severity: Notice --> Undefined property: stdClass::$tindakan C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 48
+ERROR - 2019-04-11 13:19:57 --> Severity: Notice --> Undefined property: stdClass::$no_rm C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 41
+ERROR - 2019-04-11 13:19:57 --> Severity: Notice --> Undefined property: stdClass::$no_rm C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 41
+ERROR - 2019-04-11 13:19:57 --> Severity: Notice --> Undefined property: stdClass::$no_rm C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 41
+ERROR - 2019-04-11 13:20:48 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 48
+ERROR - 2019-04-11 13:20:48 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 48
+ERROR - 2019-04-11 13:20:48 --> Severity: Notice --> Undefined property: stdClass::$anamnesa C:\xampp\htdocs\klinik\application\views\export\pendaftaran\export_pendaftaran.php 48
+ERROR - 2019-04-11 13:23:50 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 08:30:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:30:34 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\klinik\application\models\M_admission.php 280
+ERROR - 2019-04-11 08:30:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 08:32:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:45:35 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\xampp\htdocs\klinik\application\models\M_admission.php 280
+ERROR - 2019-04-11 08:45:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:45:41 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\xampp\htdocs\klinik\application\models\M_admission.php 280
+ERROR - 2019-04-11 14:43:09 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\xampp\htdocs\klinik\application\models\M_admission.php 280
+ERROR - 2019-04-11 14:44:18 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\xampp\htdocs\klinik\application\models\M_admission.php 280
+ERROR - 2019-04-11 09:44:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:46:36 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting ';' C:\xampp\htdocs\klinik\application\models\M_admission.php 302
+ERROR - 2019-04-11 09:46:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:46:41 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting ';' C:\xampp\htdocs\klinik\application\models\M_admission.php 302
+ERROR - 2019-04-11 14:47:15 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO) C:\xampp\htdocs\klinik\application\models\M_admission.php 302
+ERROR - 2019-04-11 09:47:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 09:49:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:49:10 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\klinik\application\models\M_admission.php 280
+ERROR - 2019-04-11 09:49:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:49:24 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\klinik\application\models\M_admission.php 280
+ERROR - 2019-04-11 09:55:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:55:52 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\klinik\application\models\M_admission.php 280
+ERROR - 2019-04-11 09:55:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 09:57:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:57:13 --> Severity: Notice --> Trying to get property 'jumlah' of non-object C:\xampp\htdocs\klinik\application\models\M_admission.php 281
+ERROR - 2019-04-11 09:57:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 09:57:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 09:57:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 09:58:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:58:08 --> Severity: Notice --> Undefined index: jumlah C:\xampp\htdocs\klinik\application\models\M_admission.php 281
+ERROR - 2019-04-11 09:58:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 09:58:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:58:49 --> Severity: Notice --> Trying to get property 'jumlah' of non-object C:\xampp\htdocs\klinik\application\models\M_admission.php 281
+ERROR - 2019-04-11 10:01:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:03:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:03:10 --> Severity: Notice --> Trying to get property 'jumlah' of non-object C:\xampp\htdocs\klinik\application\models\M_admission.php 281
+ERROR - 2019-04-11 10:03:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:03:34 --> Severity: Notice --> Undefined index: jumlah C:\xampp\htdocs\klinik\application\models\M_admission.php 281
+ERROR - 2019-04-11 10:03:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:04:02 --> Severity: Notice --> Trying to get property 'jumlah' of non-object C:\xampp\htdocs\klinik\application\models\M_admission.php 281
+ERROR - 2019-04-11 10:04:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:04:18 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\klinik\application\models\M_admission.php 280
+ERROR - 2019-04-11 10:14:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:14:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:19:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:19:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:19:44 --> Severity: Notice --> Undefined variable: status C:\xampp\htdocs\klinik\application\models\M_admission.php 301
+ERROR - 2019-04-11 15:19:44 --> Severity: Notice --> Undefined variable: message C:\xampp\htdocs\klinik\application\models\M_admission.php 301
+ERROR - 2019-04-11 10:20:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:20:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:20:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:21:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:22:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:22:42 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:24:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:25:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:25:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:31:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:31:32 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\klinik\application\models\M_admission.php 288
+ERROR - 2019-04-11 15:31:40 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\klinik\application\models\M_admission.php 288
+ERROR - 2019-04-11 10:31:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:32:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:35:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:36:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:37:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:38:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:38:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:39:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:39:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:41:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:43:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:44:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:45:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:46:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:46:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:48:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:48:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:53:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:54:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:54:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:54:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 10:55:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:19:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:20:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:21:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 16:23:10 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 11:29:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:29:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:31:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:36:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:36:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 16:38:34 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_pasien`, CONSTRAINT `tb_pasien_ibfk_5` FOREIGN KEY (`tempat_lahir`) REFERENCES `tb_kabupaten_kota` (`id`) ON UPDATE CASCADE) - Invalid query: UPDATE `tb_pasien` SET `id` = '000001', `tanggal_daftar` = '2019-04-11', `nama` = 'AOM MUHARROM TN', `kelamin` = 'L', `alamat` = 'PASAR KEMIS', `id_kelurahan` = '48524', `tempat_lahir` = 'KOTA TANGERANG', `tanggal_lahir` = '1969-11-19', `agama` = 'ISLAM', `gol_darah` = 'O Rh+', `id_pendidikan` = '10', `id_pekerjaan` = '12', `status_pernikahan` = 'Menikah', `telp` = '0823234234238', `jenis_identitas` = NULL, `no_identitas` = '2229933343737333', `nama_ayah` = 'SANTOSO', `nama_ibu` = 'MARIYAH'
+WHERE `id` = '000001'
+ERROR - 2019-04-11 16:38:46 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_pasien`, CONSTRAINT `tb_pasien_ibfk_5` FOREIGN KEY (`tempat_lahir`) REFERENCES `tb_kabupaten_kota` (`id`) ON UPDATE CASCADE) - Invalid query: UPDATE `tb_pasien` SET `id` = '000001', `tanggal_daftar` = '2019-04-11', `nama` = 'AOM MUHARROM TN', `kelamin` = 'L', `alamat` = 'PASAR KEMIS', `id_kelurahan` = '49047', `tempat_lahir` = 'KOTA TANGERANG', `tanggal_lahir` = '1969-11-19', `agama` = 'ISLAM', `gol_darah` = 'O Rh+', `id_pendidikan` = '10', `id_pekerjaan` = '12', `status_pernikahan` = 'Menikah', `telp` = '0823234234238', `jenis_identitas` = NULL, `no_identitas` = '2229933343737333', `nama_ayah` = 'SANTOSO', `nama_ibu` = 'MARIYAH'
+WHERE `id` = '000001'
+ERROR - 2019-04-11 11:38:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 16:39:05 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_pasien`, CONSTRAINT `tb_pasien_ibfk_5` FOREIGN KEY (`tempat_lahir`) REFERENCES `tb_kabupaten_kota` (`id`) ON UPDATE CASCADE) - Invalid query: UPDATE `tb_pasien` SET `id` = '000001', `tanggal_daftar` = '2019-04-11', `nama` = 'AOM MUHARROM TN', `kelamin` = 'L', `alamat` = 'PASAR KEMIS', `id_kelurahan` = '49071', `tempat_lahir` = 'KOTA TANGERANG', `tanggal_lahir` = '1969-11-19', `agama` = 'ISLAM', `gol_darah` = 'O Rh+', `id_pendidikan` = '10', `id_pekerjaan` = '12', `status_pernikahan` = 'Menikah', `telp` = '0823234234238', `jenis_identitas` = NULL, `no_identitas` = '2229933343737333', `nama_ayah` = 'SANTOSO', `nama_ibu` = 'MARIYAH'
+WHERE `id` = '000001'
+ERROR - 2019-04-11 11:42:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:43:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:44:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:47:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:48:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:48:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:50:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:52:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:53:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:54:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:54:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:54:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:55:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:55:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:56:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:57:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:57:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 11:58:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:00:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:05:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:06:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:07:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:07:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:09:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:09:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:11:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 17:13:30 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`db_klinik`.`tb_pasien`, CONSTRAINT `tb_pasien_ibfk_5` FOREIGN KEY (`tempat_lahir`) REFERENCES `tb_kabupaten_kota` (`id`) ON UPDATE CASCADE) - Invalid query: UPDATE `tb_pasien` SET `id` = '000001', `tanggal_daftar` = '2019-04-11', `nama` = 'AOM MUHARROM TN', `kelamin` = 'L', `alamat` = 'PASAR KEMIS', `id_kelurahan` = '48524', `tempat_lahir` = 'KABUPATEN ACEH BARAT', `tanggal_lahir` = '1969-11-19', `agama` = 'ISLAM', `gol_darah` = 'O Rh+', `id_pendidikan` = '10', `id_pekerjaan` = '12', `status_pernikahan` = 'Menikah', `telp` = '0823234234238', `jenis_identitas` = NULL, `no_identitas` = '2229933343737333', `nama_ayah` = 'SANTOSO', `nama_ibu` = 'MARIYAH'
+WHERE `id` = '000001'
+ERROR - 2019-04-11 12:13:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:13:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:14:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:14:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:15:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:16:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 17:20:23 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 12:26:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:26:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:27:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:28:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:29:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:29:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:29:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:47:14 --> 404 Page Not Found: Assets/css
+ERROR - 2019-04-11 12:57:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 12:57:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:02:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:04:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:05:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:05:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:18:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:19:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:19:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:21:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:22:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:22:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:23:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:26:42 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 18:26:49 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 18:28:58 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 18:29:11 --> Severity: Notice --> Undefined property: stdClass::$catatan C:\xampp\htdocs\klinik\application\views\printing\pendaftaran\hasil_pemeriksaan.php 56
+ERROR - 2019-04-11 13:43:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:44:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:44:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:44:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 13:44:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:02:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:05:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:48:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:52:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:54:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:55:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:56:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 14:56:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:02:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 20:02:16 --> Severity: error --> Exception: Too few arguments to function M_home::simpan_upload(), 1 passed in C:\xampp\htdocs\klinik\application\controllers\Home.php on line 109 and exactly 2 expected C:\xampp\htdocs\klinik\application\models\M_home.php 37
+ERROR - 2019-04-11 15:02:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 20:02:44 --> Query error: Unknown column 'foto' in 'field list' - Invalid query: INSERT INTO `tb_foto_profil` (`foto`) VALUES ('2034a0776dcdfec853191632099bb494.png')
+ERROR - 2019-04-11 15:02:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:05:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:05:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:07:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:07:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:08:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:08:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:08:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:08:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:10:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:10:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:17:42 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\klinik\application\models\M_home.php 39
+ERROR - 2019-04-11 20:26:09 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 18
+ERROR - 2019-04-11 20:31:59 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 18
+ERROR - 2019-04-11 20:31:59 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 21
+ERROR - 2019-04-11 20:32:21 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 18
+ERROR - 2019-04-11 20:32:21 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 21
+ERROR - 2019-04-11 20:32:47 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 18
+ERROR - 2019-04-11 20:32:47 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 21
+ERROR - 2019-04-11 20:33:35 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 21
+ERROR - 2019-04-11 20:34:23 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 21
+ERROR - 2019-04-11 15:44:29 --> 404 Page Not Found: Assets/foto
+ERROR - 2019-04-11 15:44:32 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:44:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:44:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 15:46:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:05:21 --> Severity: error --> Exception: syntax error, unexpected ';' C:\xampp\htdocs\klinik\application\controllers\Home.php 119
+ERROR - 2019-04-11 18:05:29 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ',' or ')' C:\xampp\htdocs\klinik\application\controllers\Home.php 123
+ERROR - 2019-04-11 18:05:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:05:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:06:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:06:04 --> 404 Page Not Found: Home/cek_foto
+ERROR - 2019-04-11 18:06:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:06:35 --> Severity: error --> Exception: Call to undefined method Home::response() C:\xampp\htdocs\klinik\application\controllers\Home.php 126
+ERROR - 2019-04-11 18:07:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:21:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:24:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:24:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:25:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:25:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:25:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:25:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:26:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:26:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:26:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:26:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:27:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:27:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:33:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:33:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:38:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:38:17 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\controllers\Home.php 104
+ERROR - 2019-04-11 23:38:17 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\controllers\Home.php 104
+ERROR - 2019-04-11 23:38:17 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\klinik\application\controllers\Home.php 104
+ERROR - 2019-04-11 23:38:17 --> Severity: Notice --> Undefined variable: profil C:\xampp\htdocs\klinik\application\controllers\Home.php 105
+ERROR - 2019-04-11 23:38:17 --> Severity: Notice --> Trying to get property 'id_pegawai' of non-object C:\xampp\htdocs\klinik\application\controllers\Home.php 105
+ERROR - 2019-04-11 18:38:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:38:58 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\controllers\Home.php 105
+ERROR - 2019-04-11 23:38:58 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\klinik\application\controllers\Home.php 105
+ERROR - 2019-04-11 23:38:58 --> Severity: Notice --> Trying to get property 'id_pegawai' of non-object C:\xampp\htdocs\klinik\application\controllers\Home.php 106
+ERROR - 2019-04-11 18:39:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:39:51 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\klinik\application\controllers\Home.php 104
+ERROR - 2019-04-11 18:41:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:41:20 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\klinik\application\controllers\Home.php 104
+ERROR - 2019-04-11 18:42:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:42:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:43:37 --> 404 Page Not Found: Assets/foto
+ERROR - 2019-04-11 18:43:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:43:38 --> 404 Page Not Found: Assets/foto
+ERROR - 2019-04-11 18:44:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:44:22 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 45
+ERROR - 2019-04-11 18:44:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:44:35 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 45
+ERROR - 2019-04-11 18:44:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:44:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:44:53 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 45
+ERROR - 2019-04-11 18:46:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:46:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:46:40 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\views\profile.php 45
+ERROR - 2019-04-11 18:47:38 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:47:45 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\controllers\Home.php 104
+ERROR - 2019-04-11 18:47:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:47:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:47:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:48:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 23:48:33 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\klinik\application\controllers\Home.php 104
+ERROR - 2019-04-11 18:48:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:48:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:54:06 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO) C:\xampp\htdocs\klinik\application\controllers\Home.php 105
+ERROR - 2019-04-11 18:54:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:54:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:54:48 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:55:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:57:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 18:59:00 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO) C:\xampp\htdocs\klinik\application\controllers\Home.php 104
+ERROR - 2019-04-11 18:59:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:01:57 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ',' or ')' C:\xampp\htdocs\klinik\application\controllers\Home.php 104
+ERROR - 2019-04-11 19:02:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:03:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:04:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:06:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:06:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:07:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:09:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:10:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:10:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:14:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:14:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:14:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:15:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:15:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:17:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:18:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:18:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:18:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:19:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:21:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2019-04-11 19:21:58 --> 404 Page Not Found: Assets/plugins

@@ -1,0 +1,13 @@
+/*Print Area*/
+.print-area {-webkit-print-color-adjust:exact;  width: 95%; margin: auto;  padding-left: 10px; margin-top: 10px;}
+.print-area table td { font-size: 14px; }
+.print-area .attrib { width: 150px; height: 100px; position: fixed; right: 10px; top: 50%; text-align: center; font-weight: bold; margin-right: 30px;}
+.print-area .border { border-bottom: 1px solid #000; padding: 5px; }
+.print-area .heading { text-transform: uppercase; text-align: center; font-size: 12px; }
+.print-area .logo-wrapped { width: 100px; height: 200px; padding: 3px; text-align: center; color: #333; }
+.print-area .logo-wrapped .logo { width: 100px; height: 100px;  position: fixed;}
+
+.print-card {-webkit-print-color-adjust:exact; width: 8cm; height: 4cm; color: #000; margin: 0; text-transform: uppercase; font-weight: bold;}
+.print-card center { color: #000; font-weight: bold; }
+
+/*End of Print Area*/

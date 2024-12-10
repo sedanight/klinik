@@ -1,0 +1,5 @@
+ERROR - 2020-08-28 14:35:28 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'syamcorp_root'@'localhost' (using password: YES) /Users/faizmsyam/Website/app-klinik/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2020-08-28 14:35:28 --> Unable to connect to the database
+ERROR - 2020-08-28 14:36:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-08-28 14:36:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-08-28 14:36:26 --> 404 Page Not Found: Assets/plugins
